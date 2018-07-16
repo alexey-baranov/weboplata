@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Wrapper generator="zend" version="1.0">
+    <getMetadata>
+        <response>
+            <message>Неверный номер договора</message>
+        </response>
+        <status>failed</status>
+    </getMetadata>
+</Wrapper>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Wrapper generator="zend" version="1.0">
+    <getMetadata>
+        <number>5550-И</number>
+        <address>
+            п. Фёдоровский, ул. Озерная, д. 4, кв. 3
+        </address>
+        <tariff>Днепр</tariff>
+        <saldo>67.7419</saldo>
+        <IsLegal>0</IsLegal>
+        <status>success</status>
+    </getMetadata>
+</Wrapper>

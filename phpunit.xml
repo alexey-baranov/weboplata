@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<phpunit bootstrap="lib/bootstrap.php"  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://schema.phpunit.de/5.2/phpunit.xsd">
+    <php>
+        <env name="PHP_ENV" value="testing"/>
+    </php>
+  <testsuites>
+    <testsuite name="main">
+        <directory>./test</directory>
+    </testsuite>
+  </testsuites>
+</phpunit>

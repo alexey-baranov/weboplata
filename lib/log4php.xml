@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<log4php:configuration xmlns:log4php="http://logging.apache.org/log4php/">
+    <renderer renderedClass="Exception" renderingClass="LoggerRendererException" />
+        
+    <appender name="RootFileAppender" class="LoggerAppenderDailyFile">
+        <param name="file" value="../logs/%s Root.log" />
+        <param name="datePattern" value="Y-m-d" />
+        <layout class="LoggerLayoutPattern">
+            <param name="conversionPattern" value="%date %logger %server{REMOTE_ADDR} %pid %-5level %msg %ex%n" />
+        </layout>
+    </appender>
+
+    <appender name="RootErrorFileAppender" class="LoggerAppenderDailyFile">
+        <param name="threshold" value="ERROR" />
+        <param name="file" value="../logs/%s RootError.log" />
+        <param name="datePattern" value="Y-m-d" />
+        <layout class="LoggerLayoutPattern">
+            <param name="conversionPattern" value="%date %logger %server{REMOTE_ADDR} %pid %-5level %msg %ex%n" />
+        </layout>
+    </appender>
+    
+    <appender name="RootFatalMailAppender" class="LoggerAppenderMailEvent">
+        <param name="threshold" value="FATAL" />
+        <param name="to" value="alexey_baranov@inbox.ru, werd@tele-plus.ru, nikonorov@tele-plus.ru" />
+        <param name="from" value="alexey_baranov@tele-plus.ru" />
+        <layout class="LoggerLayoutPattern">
+            <param name="conversionPattern" value="%date %logger %server{REMOTE_ADDR} %pid %-5level %msg %ex%n" />
+        </layout>
+    </appender>
+
+    <root>
+        <level value="DEBUG" />
+        <appender_ref ref="RootFileAppender" />
+        <appender_ref ref="RootErrorFileAppender" />
+        <appender_ref ref="RootFatalMailAppender" />
+    </root>
+</log4php:configuration>

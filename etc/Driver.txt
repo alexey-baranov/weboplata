@@ -1,0 +1,8 @@
+Doctrine\DBAL\Driver\PDOSqlsrv\Driver.php
+
+        if (strtoupper(substr(PHP_OS, 0, 3)) === 'WIN'){
+            $dsn = 'sqlsrv:server=';
+        }
+        else{
+            $dsn = 'dblib:host=';
+        }

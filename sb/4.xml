@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Wrapper generator="zend" version="1.0">
+    <add>
+        <response>
+            <message>
+                Неверный номер счета
+            </message>
+        </response>
+        <status>failed</status>
+    </add>
+</Wrapper>

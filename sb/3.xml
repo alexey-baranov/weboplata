@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Wrapper generator="zend" version="1.0">
+    <add>
+        <response>0</response>
+        <status>success</status>
+    </add>
+</Wrapper>

@@ -1,0 +1,675 @@
+2018-01-13T18:20:13+05:00 root  12005 INFO  checking  
+2018-01-13T18:21:16+05:00 root  12032 INFO  checking  
+2018-01-13T18:21:17+05:00 root  12032 INFO  Array
+(
+    [number] => 789-И
+    [address] => д. Сайгатина, ул. Совхозная, д.11, кв.22
+    [tariff] => Дон
+    [saldo] => 1363.0033
+    [IsLegal] => 0
+)
+ 
+2018-01-13T18:21:50+05:00 root  12045 INFO  checking  
+2018-01-13T18:21:50+05:00 root  12045 INFO  Array
+(
+    [number] => 789-И
+    [address] => д. Сайгатина, ул. Совхозная, д.11, кв.22
+    [tariff] => Дон
+    [saldo] => 1365.0033
+    [IsLegal] => 0
+)
+ 
+2018-01-13T18:23:21+05:00 root  12103 INFO  checking  
+2018-01-13T18:23:22+05:00 root  12103 INFO  Array
+(
+    [number] => 789-И
+    [address] => д. Сайгатина, ул. Совхозная, д.11, кв.22
+    [tariff] => Дон
+    [saldo] => 1365.0033
+    [IsLegal] => 0
+)
+ 
+2018-01-13T18:23:42+05:00 root  12112 INFO  checking  
+2018-01-13T18:23:43+05:00 root  12112 INFO  Array
+(
+    [number] => 789-И
+    [address] => д. Сайгатина, ул. Совхозная, д.11, кв.22
+    [tariff] => Дон
+    [saldo] => 1365.0033
+    [IsLegal] => 0
+)
+ 
+2018-01-13T18:25:26+05:00 root  12143 INFO  checking  
+2018-01-13T18:25:27+05:00 root  12143 INFO  Array
+(
+    [number] => 789-И
+    [address] => д. Сайгатина, ул. Совхозная, д.11, кв.22
+    [tariff] => Дон
+    [saldo] => 1365.0033
+    [IsLegal] => 0
+)
+ 
+2018-01-13T18:25:50+05:00 root  12149 INFO  checking  
+2018-01-13T18:25:51+05:00 root  12149 INFO  Array
+(
+    [number] => 789-И
+    [address] => д. Сайгатина, ул. Совхозная, д.11, кв.22
+    [tariff] => Дон
+    [saldo] => 1365.0033
+    [IsLegal] => 0
+)
+ 
+2018-01-13T18:26:30+05:00 root  12168 INFO  checking  
+2018-01-13T18:26:30+05:00 root  12168 INFO  Array
+(
+    [number] => 789-И
+    [address] => д. Сайгатина, ул. Совхозная, д.11, кв.22
+    [tariff] => Дон
+    [saldo] => 1365.0033
+    [IsLegal] => 0
+)
+ 
+2018-01-13T18:26:49+05:00 root  12176 INFO  checking  
+2018-01-13T18:26:49+05:00 root  12176 INFO  Array
+(
+    [number] => 789-И
+    [address] => д. Сайгатина, ул. Совхозная, д.11, кв.22
+    [tariff] => Дон
+    [saldo] => 1365.0033
+    [IsLegal] => 0
+)
+ 
+2018-01-13T18:27:07+05:00 root  12181 INFO  checking  
+2018-01-13T18:27:07+05:00 root  12181 INFO  Array
+(
+    [number] => 789-И
+    [address] => д. Сайгатина, ул. Совхозная, д.11, кв.22
+    [tariff] => Дон
+    [saldo] => 1365.0033
+    [IsLegal] => 0
+)
+ 
+2018-01-13T18:27:44+05:00 root  12200 INFO  checking  
+2018-01-13T18:27:44+05:00 root  12200 INFO  Array
+(
+    [number] => 789-И
+    [address] => д. Сайгатина, ул. Совхозная, д.11, кв.22
+    [tariff] => Дон
+    [saldo] => 1365.0033
+    [IsLegal] => 0
+)
+ 
+2018-01-13T18:29:00+05:00 root  12268 INFO  checking  
+2018-01-13T18:29:01+05:00 root  12268 INFO  Array
+(
+    [number] => 789-И
+    [address] => д. Сайгатина, ул. Совхозная, д.11, кв.22
+    [tariff] => Дон
+    [saldo] => 1365.0033
+    [IsLegal] => 0
+)
+ 
+2018-01-13T18:33:47+05:00 root  12393 INFO  checking  
+2018-01-13T18:33:47+05:00 root  12393 INFO  Array
+(
+    [number] => 789-И
+    [address] => д. Сайгатина, ул. Совхозная, д.11, кв.22
+    [tariff] => Дон
+    [saldo] => 1365.0033
+    [IsLegal] => 0
+)
+ 
+2018-01-13T18:33:51+05:00 root  12396 INFO  checking  
+2018-01-13T18:33:52+05:00 root  12396 INFO  Array
+(
+    [number] => 789-И
+    [address] => д. Сайгатина, ул. Совхозная, д.11, кв.22
+    [tariff] => Дон
+    [saldo] => 1365.0033
+    [IsLegal] => 0
+)
+ 
+2018-01-13T18:34:08+05:00 root  12409 INFO  checking  
+2018-01-13T18:34:09+05:00 root  12409 INFO  Array
+(
+    [number] => 789-И
+    [address] => д. Сайгатина, ул. Совхозная, д.11, кв.22
+    [tariff] => Дон
+    [saldo] => 1365.0033
+    [IsLegal] => 0
+)
+ 
+2018-01-13T18:34:23+05:00 root  12414 INFO  checking  
+2018-01-13T18:34:23+05:00 root  12414 INFO  Array
+(
+    [number] => 789-И
+    [address] => д. Сайгатина, ул. Совхозная, д.11, кв.22
+    [tariff] => Дон
+    [saldo] => 1365.0033
+    [IsLegal] => 0
+)
+ 
+2018-01-13T18:39:06+05:00 root  12530 INFO  checking  
+2018-01-13T18:39:06+05:00 root  12530 INFO  Array
+(
+    [number] => 789-И
+    [address] => д. Сайгатина, ул. Совхозная, д.11, кв.22
+    [tariff] => Дон
+    [saldo] => 1365.0033
+    [IsLegal] => 0
+)
+ 
+2018-01-13T18:39:06+05:00 root  12530 INFO  checking  
+2018-01-13T18:39:06+05:00 root  12530 DEBUG looking Account by phone number 
+2018-01-13T18:39:07+05:00 root  12530 DEBUG А2756-Т 
+2018-01-13T18:39:07+05:00 root  12530 INFO  Array
+(
+    [number] => А2756-Т
+    [address] => 628418, Тюменская обл., ХМАО-Югра, г. Сургут, ул. Лермонтова 11/5, офис 512.
+    [tariff] => Служебная телефония
+    [saldo] => 0.0048
+    [IsLegal] => 1
+)
+ 
+2018-01-13T18:39:07+05:00 root  12530 INFO  checking  
+2018-01-13T18:42:11+05:00 root  12571 INFO  checking  
+2018-01-13T18:42:11+05:00 root  12571 INFO  Array
+(
+    [number] => 789-И
+    [address] => д. Сайгатина, ул. Совхозная, д.11, кв.22
+    [tariff] => Дон
+    [saldo] => 1365.0033
+    [IsLegal] => 0
+)
+ 
+2018-01-13T18:42:11+05:00 root  12571 INFO  checking  
+2018-01-13T18:42:11+05:00 root  12571 DEBUG looking Account by phone number 
+2018-01-13T18:42:11+05:00 root  12571 DEBUG А2756-Т 
+2018-01-13T18:42:12+05:00 root  12571 INFO  Array
+(
+    [number] => А2756-Т
+    [address] => 628418, Тюменская обл., ХМАО-Югра, г. Сургут, ул. Лермонтова 11/5, офис 512.
+    [tariff] => Служебная телефония
+    [saldo] => 0.0048
+    [IsLegal] => 1
+)
+ 
+2018-01-13T18:42:12+05:00 root  12571 INFO  checking  
+2018-01-13T18:42:43+05:00 root  12591 INFO  checking  
+2018-01-13T18:42:43+05:00 root  12591 INFO  Array
+(
+    [number] => 789-И
+    [address] => д. Сайгатина, ул. Совхозная, д.11, кв.22
+    [tariff] => Дон
+    [saldo] => 1367.0033
+    [IsLegal] => 0
+)
+ 
+2018-01-13T18:42:43+05:00 root  12591 INFO  checking  
+2018-01-13T18:42:43+05:00 root  12591 DEBUG looking Account by phone number 
+2018-01-13T18:42:44+05:00 root  12591 DEBUG А2756-Т 
+2018-01-13T18:42:44+05:00 root  12591 INFO  Array
+(
+    [number] => А2756-Т
+    [address] => 628418, Тюменская обл., ХМАО-Югра, г. Сургут, ул. Лермонтова 11/5, офис 512.
+    [tariff] => Служебная телефония
+    [saldo] => 0.0048
+    [IsLegal] => 1
+)
+ 
+2018-01-13T18:42:44+05:00 root  12591 INFO  checking  
+2018-01-13T18:42:53+05:00 root  12600 INFO  checking  
+2018-01-13T18:42:53+05:00 root  12600 INFO  Array
+(
+    [number] => 789-И
+    [address] => д. Сайгатина, ул. Совхозная, д.11, кв.22
+    [tariff] => Дон
+    [saldo] => 1369.0033
+    [IsLegal] => 0
+)
+ 
+2018-01-13T18:42:53+05:00 root  12600 INFO  checking  
+2018-01-13T18:42:53+05:00 root  12600 DEBUG looking Account by phone number 
+2018-01-13T18:42:53+05:00 root  12600 DEBUG А2756-Т 
+2018-01-13T18:42:53+05:00 root  12600 INFO  Array
+(
+    [number] => А2756-Т
+    [address] => 628418, Тюменская обл., ХМАО-Югра, г. Сургут, ул. Лермонтова 11/5, офис 512.
+    [tariff] => Служебная телефония
+    [saldo] => 0.0048
+    [IsLegal] => 1
+)
+ 
+2018-01-13T18:42:53+05:00 root  12600 INFO  checking  
+2018-01-13T18:45:27+05:00 root  12738 INFO  checking  
+2018-01-13T18:45:28+05:00 root  12738 INFO  Array
+(
+    [number] => 789-И
+    [address] => д. Сайгатина, ул. Совхозная, д.11, кв.22
+    [tariff] => Дон
+    [saldo] => 1371.0033
+    [IsLegal] => 0
+)
+ 
+2018-01-13T18:45:28+05:00 root  12738 INFO  checking  
+2018-01-13T18:45:28+05:00 root  12738 DEBUG looking Account by phone number 
+2018-01-13T18:45:28+05:00 root  12738 DEBUG А2756-Т 
+2018-01-13T18:45:28+05:00 root  12738 INFO  Array
+(
+    [number] => А2756-Т
+    [address] => 628418, Тюменская обл., ХМАО-Югра, г. Сургут, ул. Лермонтова 11/5, офис 512.
+    [tariff] => Служебная телефония
+    [saldo] => 0.0048
+    [IsLegal] => 1
+)
+ 
+2018-01-13T18:45:28+05:00 root  12738 INFO  checking  
+2018-01-13T18:46:24+05:00 root  12738 ERROR exception 'Weboplata\Exception' with message 'Неверный номер счета' in /home/alexey2baranov/htdocs/weboplata/lib/Weboplata/Weboplata2.php:153
+Stack trace:
+#0 /home/alexey2baranov/htdocs/weboplata/test/Weboplata/WeboplataTest2.php(63): Weboplata\Weboplata2->check('789999-\xD0\x98', 123456)
+#1 [internal function]: Weboplata\WeboplataTest->testcheckLocal()
+#2 /home/alexey2baranov/htdocs/weboplata/vendor/phpunit/phpunit/src/Framework/TestCase.php(952): ReflectionMethod->invokeArgs(Object(Weboplata\WeboplataTest), Array)
+#3 /home/alexey2baranov/htdocs/weboplata/vendor/phpunit/phpunit/src/Framework/TestCase.php(818): PHPUnit_Framework_TestCase->runTest()
+#4 /home/alexey2baranov/htdocs/weboplata/vendor/phpunit/phpunit/src/Framework/TestResult.php(686): PHPUnit_Framework_TestCase->runBare()
+#5 /home/alexey2baranov/htdocs/weboplata/vendor/phpunit/phpunit/src/Framework/TestCase.php(754): PHPUnit_Framework_TestResult->run(Object(Weboplata\WeboplataTest))
+#6 /home/alexey2baranov/htdocs/weboplata/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit_Framework_TestCase->run(Object(PHPUnit_Framework_TestResult))
+#7 /home/alexey2baranov/htdocs/weboplata/vendor/phpunit/phpunit/src/TextUI/TestRunner.php(425): PHPUnit_Framework_TestSuite->run(Object(PHPUnit_Framework_TestResult))
+#8 /home/alexey2baranov/htdocs/weboplata/vendor/phpunit/phpunit/src/TextUI/Command.php(179): PHPUnit_TextUI_TestRunner->doRun(Object(PHPUnit_Framework_TestSuite), Array)
+#9 /tmp/ide-phpunit.php(299): PHPUnit_TextUI_Command->run(Array, true)
+#10 /tmp/ide-phpunit.php(605): IDE_Base_PHPUnit_TextUI_Command::main()
+#11 {main} 
+2018-01-13T18:46:50+05:00 root  12764 INFO  checking  
+2018-01-13T18:46:50+05:00 root  12764 INFO  Array
+(
+    [number] => 789-И
+    [address] => д. Сайгатина, ул. Совхозная, д.11, кв.22
+    [tariff] => Дон
+    [saldo] => 1371.0033
+    [IsLegal] => 0
+)
+ 
+2018-01-13T18:46:50+05:00 root  12764 INFO  checking  
+2018-01-13T18:46:50+05:00 root  12764 DEBUG looking Account by phone number 
+2018-01-13T18:46:50+05:00 root  12764 DEBUG А2756-Т 
+2018-01-13T18:46:51+05:00 root  12764 INFO  Array
+(
+    [number] => А2756-Т
+    [address] => 628418, Тюменская обл., ХМАО-Югра, г. Сургут, ул. Лермонтова 11/5, офис 512.
+    [tariff] => Служебная телефония
+    [saldo] => 0.0048
+    [IsLegal] => 1
+)
+ 
+2018-01-13T18:46:51+05:00 root  12764 INFO  checking  
+2018-01-13T18:46:59+05:00 root  12771 INFO  checking  
+2018-01-13T18:47:00+05:00 root  12771 INFO  Array
+(
+    [number] => 789-И
+    [address] => д. Сайгатина, ул. Совхозная, д.11, кв.22
+    [tariff] => Дон
+    [saldo] => 1371.0033
+    [IsLegal] => 0
+)
+ 
+2018-01-13T18:47:00+05:00 root  12771 INFO  checking  
+2018-01-13T18:47:00+05:00 root  12771 DEBUG looking Account by phone number 
+2018-01-13T18:47:00+05:00 root  12771 DEBUG А2756-Т 
+2018-01-13T18:47:00+05:00 root  12771 INFO  Array
+(
+    [number] => А2756-Т
+    [address] => 628418, Тюменская обл., ХМАО-Югра, г. Сургут, ул. Лермонтова 11/5, офис 512.
+    [tariff] => Служебная телефония
+    [saldo] => 0.0048
+    [IsLegal] => 1
+)
+ 
+2018-01-13T18:47:00+05:00 root  12771 INFO  checking  
+2018-01-13T18:47:02+05:00 root  12771 ERROR exception 'Weboplata\Exception' with message 'Неверный номер счета' in /home/alexey2baranov/htdocs/weboplata/lib/Weboplata/Weboplata2.php:153
+Stack trace:
+#0 /home/alexey2baranov/htdocs/weboplata/test/Weboplata/WeboplataTest2.php(63): Weboplata\Weboplata2->check('789999-\xD0\x98', 123456)
+#1 [internal function]: Weboplata\WeboplataTest->testcheckLocal()
+#2 /home/alexey2baranov/htdocs/weboplata/vendor/phpunit/phpunit/src/Framework/TestCase.php(952): ReflectionMethod->invokeArgs(Object(Weboplata\WeboplataTest), Array)
+#3 /home/alexey2baranov/htdocs/weboplata/vendor/phpunit/phpunit/src/Framework/TestCase.php(818): PHPUnit_Framework_TestCase->runTest()
+#4 /home/alexey2baranov/htdocs/weboplata/vendor/phpunit/phpunit/src/Framework/TestResult.php(686): PHPUnit_Framework_TestCase->runBare()
+#5 /home/alexey2baranov/htdocs/weboplata/vendor/phpunit/phpunit/src/Framework/TestCase.php(754): PHPUnit_Framework_TestResult->run(Object(Weboplata\WeboplataTest))
+#6 /home/alexey2baranov/htdocs/weboplata/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit_Framework_TestCase->run(Object(PHPUnit_Framework_TestResult))
+#7 /home/alexey2baranov/htdocs/weboplata/vendor/phpunit/phpunit/src/TextUI/TestRunner.php(425): PHPUnit_Framework_TestSuite->run(Object(PHPUnit_Framework_TestResult))
+#8 /home/alexey2baranov/htdocs/weboplata/vendor/phpunit/phpunit/src/TextUI/Command.php(179): PHPUnit_TextUI_TestRunner->doRun(Object(PHPUnit_Framework_TestSuite), Array)
+#9 /tmp/ide-phpunit.php(299): PHPUnit_TextUI_Command->run(Array, true)
+#10 /tmp/ide-phpunit.php(605): IDE_Base_PHPUnit_TextUI_Command::main()
+#11 {main} 
+2018-01-13T18:47:23+05:00 root  12779 INFO  checking  
+2018-01-13T18:47:23+05:00 root  12779 INFO  Array
+(
+    [number] => 789-И
+    [address] => д. Сайгатина, ул. Совхозная, д.11, кв.22
+    [tariff] => Дон
+    [saldo] => 1371.0033
+    [IsLegal] => 0
+)
+ 
+2018-01-13T18:47:23+05:00 root  12779 INFO  checking  
+2018-01-13T18:47:23+05:00 root  12779 DEBUG looking Account by phone number 
+2018-01-13T18:47:24+05:00 root  12779 DEBUG А2756-Т 
+2018-01-13T18:47:24+05:00 root  12779 INFO  Array
+(
+    [number] => А2756-Т
+    [address] => 628418, Тюменская обл., ХМАО-Югра, г. Сургут, ул. Лермонтова 11/5, офис 512.
+    [tariff] => Служебная телефония
+    [saldo] => 0.0048
+    [IsLegal] => 1
+)
+ 
+2018-01-13T18:47:24+05:00 root  12779 INFO  checking  
+2018-01-13T18:47:25+05:00 root  12779 ERROR exception 'Weboplata\Exception' with message 'Неверный номер счета' in /home/alexey2baranov/htdocs/weboplata/lib/Weboplata/Weboplata2.php:153
+Stack trace:
+#0 /home/alexey2baranov/htdocs/weboplata/test/Weboplata/WeboplataTest2.php(63): Weboplata\Weboplata2->check('789999-\xD0\x98', 123456)
+#1 [internal function]: Weboplata\WeboplataTest->testcheckLocal()
+#2 /home/alexey2baranov/htdocs/weboplata/vendor/phpunit/phpunit/src/Framework/TestCase.php(952): ReflectionMethod->invokeArgs(Object(Weboplata\WeboplataTest), Array)
+#3 /home/alexey2baranov/htdocs/weboplata/vendor/phpunit/phpunit/src/Framework/TestCase.php(818): PHPUnit_Framework_TestCase->runTest()
+#4 /home/alexey2baranov/htdocs/weboplata/vendor/phpunit/phpunit/src/Framework/TestResult.php(686): PHPUnit_Framework_TestCase->runBare()
+#5 /home/alexey2baranov/htdocs/weboplata/vendor/phpunit/phpunit/src/Framework/TestCase.php(754): PHPUnit_Framework_TestResult->run(Object(Weboplata\WeboplataTest))
+#6 /home/alexey2baranov/htdocs/weboplata/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit_Framework_TestCase->run(Object(PHPUnit_Framework_TestResult))
+#7 /home/alexey2baranov/htdocs/weboplata/vendor/phpunit/phpunit/src/TextUI/TestRunner.php(425): PHPUnit_Framework_TestSuite->run(Object(PHPUnit_Framework_TestResult))
+#8 /home/alexey2baranov/htdocs/weboplata/vendor/phpunit/phpunit/src/TextUI/Command.php(179): PHPUnit_TextUI_TestRunner->doRun(Object(PHPUnit_Framework_TestSuite), Array)
+#9 /tmp/ide-phpunit.php(299): PHPUnit_TextUI_Command->run(Array, true)
+#10 /tmp/ide-phpunit.php(605): IDE_Base_PHPUnit_TextUI_Command::main()
+#11 {main} 
+2018-01-13T18:47:40+05:00 root  12784 INFO  checking  
+2018-01-13T18:47:40+05:00 root  12784 INFO  Array
+(
+    [number] => 789-И
+    [address] => д. Сайгатина, ул. Совхозная, д.11, кв.22
+    [tariff] => Дон
+    [saldo] => 1373.0033
+    [IsLegal] => 0
+)
+ 
+2018-01-13T18:47:40+05:00 root  12784 INFO  checking  
+2018-01-13T18:47:40+05:00 root  12784 DEBUG looking Account by phone number 
+2018-01-13T18:47:41+05:00 root  12784 DEBUG А2756-Т 
+2018-01-13T18:47:41+05:00 root  12784 INFO  Array
+(
+    [number] => А2756-Т
+    [address] => 628418, Тюменская обл., ХМАО-Югра, г. Сургут, ул. Лермонтова 11/5, офис 512.
+    [tariff] => Служебная телефония
+    [saldo] => 0.0048
+    [IsLegal] => 1
+)
+ 
+2018-01-13T18:47:41+05:00 root  12784 INFO  checking  
+2018-01-13T18:48:22+05:00 root  12809 INFO  checking  
+2018-01-13T18:48:22+05:00 root  12809 INFO  Array
+(
+    [number] => 789-И
+    [address] => д. Сайгатина, ул. Совхозная, д.11, кв.22
+    [tariff] => Дон
+    [saldo] => 1373.0033
+    [IsLegal] => 0
+)
+ 
+2018-01-13T18:48:22+05:00 root  12809 INFO  checking  
+2018-01-13T18:48:22+05:00 root  12809 DEBUG looking Account by phone number 
+2018-01-13T18:48:22+05:00 root  12809 DEBUG А2756-Т 
+2018-01-13T18:48:23+05:00 root  12809 INFO  Array
+(
+    [number] => А2756-Т
+    [address] => 628418, Тюменская обл., ХМАО-Югра, г. Сургут, ул. Лермонтова 11/5, офис 512.
+    [tariff] => Служебная телефония
+    [saldo] => 0.0048
+    [IsLegal] => 1
+)
+ 
+2018-01-13T18:48:23+05:00 root  12809 INFO  checking  
+2018-01-13T18:48:27+05:00 root  12809 ERROR exception 'Weboplata\Exception' with message 'Неверный номер счета' in /home/alexey2baranov/htdocs/weboplata/lib/Weboplata/Weboplata2.php:153
+Stack trace:
+#0 /home/alexey2baranov/htdocs/weboplata/test/Weboplata/WeboplataTest2.php(63): Weboplata\Weboplata2->check('789999-\xD0\x98', 123456)
+#1 [internal function]: Weboplata\WeboplataTest->testcheckLocal()
+#2 /home/alexey2baranov/htdocs/weboplata/vendor/phpunit/phpunit/src/Framework/TestCase.php(952): ReflectionMethod->invokeArgs(Object(Weboplata\WeboplataTest), Array)
+#3 /home/alexey2baranov/htdocs/weboplata/vendor/phpunit/phpunit/src/Framework/TestCase.php(818): PHPUnit_Framework_TestCase->runTest()
+#4 /home/alexey2baranov/htdocs/weboplata/vendor/phpunit/phpunit/src/Framework/TestResult.php(686): PHPUnit_Framework_TestCase->runBare()
+#5 /home/alexey2baranov/htdocs/weboplata/vendor/phpunit/phpunit/src/Framework/TestCase.php(754): PHPUnit_Framework_TestResult->run(Object(Weboplata\WeboplataTest))
+#6 /home/alexey2baranov/htdocs/weboplata/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit_Framework_TestCase->run(Object(PHPUnit_Framework_TestResult))
+#7 /home/alexey2baranov/htdocs/weboplata/vendor/phpunit/phpunit/src/TextUI/TestRunner.php(425): PHPUnit_Framework_TestSuite->run(Object(PHPUnit_Framework_TestResult))
+#8 /home/alexey2baranov/htdocs/weboplata/vendor/phpunit/phpunit/src/TextUI/Command.php(179): PHPUnit_TextUI_TestRunner->doRun(Object(PHPUnit_Framework_TestSuite), Array)
+#9 /tmp/ide-phpunit.php(299): PHPUnit_TextUI_Command->run(Array, true)
+#10 /tmp/ide-phpunit.php(605): IDE_Base_PHPUnit_TextUI_Command::main()
+#11 {main} 
+2018-01-13T18:49:57+05:00 root  12860 INFO  checking  
+2018-01-13T18:49:57+05:00 root  12860 INFO  Array
+(
+    [number] => 789-И
+    [address] => д. Сайгатина, ул. Совхозная, д.11, кв.22
+    [tariff] => Дон
+    [saldo] => 1373.0033
+    [IsLegal] => 0
+)
+ 
+2018-01-13T18:49:57+05:00 root  12860 INFO  checking  
+2018-01-13T18:49:57+05:00 root  12860 DEBUG looking Account by phone number 
+2018-01-13T18:49:58+05:00 root  12860 DEBUG А2756-Т 
+2018-01-13T18:49:58+05:00 root  12860 INFO  Array
+(
+    [number] => А2756-Т
+    [address] => 628418, Тюменская обл., ХМАО-Югра, г. Сургут, ул. Лермонтова 11/5, офис 512.
+    [tariff] => Служебная телефония
+    [saldo] => 0.0048
+    [IsLegal] => 1
+)
+ 
+2018-01-13T18:49:58+05:00 root  12860 INFO  checking  
+2018-01-13T18:50:06+05:00 root  12860 ERROR exception 'Weboplata\Exception' with message 'Неверный номер счета' in /home/alexey2baranov/htdocs/weboplata/lib/Weboplata/Weboplata2.php:153
+Stack trace:
+#0 /home/alexey2baranov/htdocs/weboplata/test/Weboplata/WeboplataTest2.php(63): Weboplata\Weboplata2->check('789999-\xD0\x98', 123456)
+#1 [internal function]: Weboplata\WeboplataTest->testcheckLocal()
+#2 /home/alexey2baranov/htdocs/weboplata/vendor/phpunit/phpunit/src/Framework/TestCase.php(952): ReflectionMethod->invokeArgs(Object(Weboplata\WeboplataTest), Array)
+#3 /home/alexey2baranov/htdocs/weboplata/vendor/phpunit/phpunit/src/Framework/TestCase.php(818): PHPUnit_Framework_TestCase->runTest()
+#4 /home/alexey2baranov/htdocs/weboplata/vendor/phpunit/phpunit/src/Framework/TestResult.php(686): PHPUnit_Framework_TestCase->runBare()
+#5 /home/alexey2baranov/htdocs/weboplata/vendor/phpunit/phpunit/src/Framework/TestCase.php(754): PHPUnit_Framework_TestResult->run(Object(Weboplata\WeboplataTest))
+#6 /home/alexey2baranov/htdocs/weboplata/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit_Framework_TestCase->run(Object(PHPUnit_Framework_TestResult))
+#7 /home/alexey2baranov/htdocs/weboplata/vendor/phpunit/phpunit/src/TextUI/TestRunner.php(425): PHPUnit_Framework_TestSuite->run(Object(PHPUnit_Framework_TestResult))
+#8 /home/alexey2baranov/htdocs/weboplata/vendor/phpunit/phpunit/src/TextUI/Command.php(179): PHPUnit_TextUI_TestRunner->doRun(Object(PHPUnit_Framework_TestSuite), Array)
+#9 /tmp/ide-phpunit.php(299): PHPUnit_TextUI_Command->run(Array, true)
+#10 /tmp/ide-phpunit.php(605): IDE_Base_PHPUnit_TextUI_Command::main()
+#11 {main} 
+2018-01-13T18:54:11+05:00 root  13173 INFO  checking 789-И 
+2018-01-13T18:54:11+05:00 root  13173 INFO  Array
+(
+    [number] => 789-И
+    [address] => д. Сайгатина, ул. Совхозная, д.11, кв.22
+    [tariff] => Дон
+    [saldo] => 1373.0033
+    [IsLegal] => 0
+)
+ 
+2018-01-13T18:54:11+05:00 root  13173 INFO  checking 555555 
+2018-01-13T18:54:11+05:00 root  13173 DEBUG looking Account by phone number 555555 
+2018-01-13T18:54:12+05:00 root  13173 DEBUG 555555 -> А2756-Т ТЕХНОПАРК 
+2018-01-13T18:54:12+05:00 root  13173 INFO  Array
+(
+    [number] => А2756-Т
+    [address] => 628418, Тюменская обл., ХМАО-Югра, г. Сургут, ул. Лермонтова 11/5, офис 512.
+    [tariff] => Служебная телефония
+    [saldo] => 0.0048
+    [IsLegal] => 1
+)
+ 
+2018-01-13T18:54:12+05:00 root  13173 INFO  checking 789999-И 
+2018-01-13T18:54:12+05:00 root  13173 ERROR exception 'Weboplata\Exception' with message 'Неверный номер счета' in /home/alexey2baranov/htdocs/weboplata/lib/Weboplata/Weboplata2.php:153
+Stack trace:
+#0 /home/alexey2baranov/htdocs/weboplata/test/Weboplata/WeboplataTest2.php(63): Weboplata\Weboplata2->check('789999-\xD0\x98', 123456)
+#1 [internal function]: Weboplata\WeboplataTest->testcheckLocal()
+#2 /home/alexey2baranov/htdocs/weboplata/vendor/phpunit/phpunit/src/Framework/TestCase.php(952): ReflectionMethod->invokeArgs(Object(Weboplata\WeboplataTest), Array)
+#3 /home/alexey2baranov/htdocs/weboplata/vendor/phpunit/phpunit/src/Framework/TestCase.php(818): PHPUnit_Framework_TestCase->runTest()
+#4 /home/alexey2baranov/htdocs/weboplata/vendor/phpunit/phpunit/src/Framework/TestResult.php(686): PHPUnit_Framework_TestCase->runBare()
+#5 /home/alexey2baranov/htdocs/weboplata/vendor/phpunit/phpunit/src/Framework/TestCase.php(754): PHPUnit_Framework_TestResult->run(Object(Weboplata\WeboplataTest))
+#6 /home/alexey2baranov/htdocs/weboplata/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit_Framework_TestCase->run(Object(PHPUnit_Framework_TestResult))
+#7 /home/alexey2baranov/htdocs/weboplata/vendor/phpunit/phpunit/src/TextUI/TestRunner.php(425): PHPUnit_Framework_TestSuite->run(Object(PHPUnit_Framework_TestResult))
+#8 /home/alexey2baranov/htdocs/weboplata/vendor/phpunit/phpunit/src/TextUI/Command.php(179): PHPUnit_TextUI_TestRunner->doRun(Object(PHPUnit_Framework_TestSuite), Array)
+#9 /tmp/ide-phpunit.php(299): PHPUnit_TextUI_Command->run(Array, true)
+#10 /tmp/ide-phpunit.php(605): IDE_Base_PHPUnit_TextUI_Command::main()
+#11 {main} 
+2018-01-13T18:54:19+05:00 root  13173 INFO  checking 789 
+2018-01-13T18:54:19+05:00 root  13173 DEBUG looking Account by phone number 789 
+2018-01-13T18:54:19+05:00 root  13173 ERROR exception 'Weboplata\Exception' with message 'Неверный номер телефона' in /home/alexey2baranov/htdocs/weboplata/lib/Weboplata/Weboplata2.php:60
+Stack trace:
+#0 /home/alexey2baranov/htdocs/weboplata/lib/Weboplata/Weboplata2.php(103): Weboplata\Weboplata2->getAccountByPhoneNumber('789')
+#1 /home/alexey2baranov/htdocs/weboplata/test/Weboplata/WeboplataTest2.php(67): Weboplata\Weboplata2->check('789', 123456)
+#2 [internal function]: Weboplata\WeboplataTest->testcheckLocal()
+#3 /home/alexey2baranov/htdocs/weboplata/vendor/phpunit/phpunit/src/Framework/TestCase.php(952): ReflectionMethod->invokeArgs(Object(Weboplata\WeboplataTest), Array)
+#4 /home/alexey2baranov/htdocs/weboplata/vendor/phpunit/phpunit/src/Framework/TestCase.php(818): PHPUnit_Framework_TestCase->runTest()
+#5 /home/alexey2baranov/htdocs/weboplata/vendor/phpunit/phpunit/src/Framework/TestResult.php(686): PHPUnit_Framework_TestCase->runBare()
+#6 /home/alexey2baranov/htdocs/weboplata/vendor/phpunit/phpunit/src/Framework/TestCase.php(754): PHPUnit_Framework_TestResult->run(Object(Weboplata\WeboplataTest))
+#7 /home/alexey2baranov/htdocs/weboplata/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit_Framework_TestCase->run(Object(PHPUnit_Framework_TestResult))
+#8 /home/alexey2baranov/htdocs/weboplata/vendor/phpunit/phpunit/src/TextUI/TestRunner.php(425): PHPUnit_Framework_TestSuite->run(Object(PHPUnit_Framework_TestResult))
+#9 /home/alexey2baranov/htdocs/weboplata/vendor/phpunit/phpunit/src/TextUI/Command.php(179): PHPUnit_TextUI_TestRunner->doRun(Object(PHPUnit_Framework_TestSuite), Array)
+#10 /tmp/ide-phpunit.php(299): PHPUnit_TextUI_Command->run(Array, true)
+#11 /tmp/ide-phpunit.php(605): IDE_Base_PHPUnit_TextUI_Command::main()
+#12 {main} 
+2018-01-13T18:55:57+05:00 root  13212 INFO  checking 789-И 
+2018-01-13T18:55:58+05:00 root  13212 INFO  Array
+(
+    [number] => 789-И
+    [address] => д. Сайгатина, ул. Совхозная, д.11, кв.22
+    [tariff] => Дон
+    [saldo] => 1375.0033
+    [IsLegal] => 0
+)
+ 
+2018-01-13T18:55:58+05:00 root  13212 INFO  checking 555555 
+2018-01-13T18:55:58+05:00 root  13212 DEBUG looking Account by phone number 555555 
+2018-01-13T18:55:58+05:00 root  13212 DEBUG 555555 -> А2756-Т ТЕХНОПАРК 
+2018-01-13T18:55:58+05:00 root  13212 INFO  Array
+(
+    [number] => А2756-Т
+    [address] => 628418, Тюменская обл., ХМАО-Югра, г. Сургут, ул. Лермонтова 11/5, офис 512.
+    [tariff] => Служебная телефония
+    [saldo] => 0.0048
+    [IsLegal] => 1
+)
+ 
+2018-01-13T18:55:58+05:00 root  13212 INFO  checking 789999-И 
+2018-01-13T18:55:59+05:00 root  13212 ERROR exception 'Weboplata\Exception' with message 'Неверный номер счета' in /home/alexey2baranov/htdocs/weboplata/lib/Weboplata/Weboplata2.php:153
+Stack trace:
+#0 /home/alexey2baranov/htdocs/weboplata/test/Weboplata/WeboplataTest2.php(63): Weboplata\Weboplata2->check('789999-\xD0\x98', 123456)
+#1 [internal function]: Weboplata\WeboplataTest->testcheckLocal()
+#2 /home/alexey2baranov/htdocs/weboplata/vendor/phpunit/phpunit/src/Framework/TestCase.php(952): ReflectionMethod->invokeArgs(Object(Weboplata\WeboplataTest), Array)
+#3 /home/alexey2baranov/htdocs/weboplata/vendor/phpunit/phpunit/src/Framework/TestCase.php(818): PHPUnit_Framework_TestCase->runTest()
+#4 /home/alexey2baranov/htdocs/weboplata/vendor/phpunit/phpunit/src/Framework/TestResult.php(686): PHPUnit_Framework_TestCase->runBare()
+#5 /home/alexey2baranov/htdocs/weboplata/vendor/phpunit/phpunit/src/Framework/TestCase.php(754): PHPUnit_Framework_TestResult->run(Object(Weboplata\WeboplataTest))
+#6 /home/alexey2baranov/htdocs/weboplata/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit_Framework_TestCase->run(Object(PHPUnit_Framework_TestResult))
+#7 /home/alexey2baranov/htdocs/weboplata/vendor/phpunit/phpunit/src/TextUI/TestRunner.php(425): PHPUnit_Framework_TestSuite->run(Object(PHPUnit_Framework_TestResult))
+#8 /home/alexey2baranov/htdocs/weboplata/vendor/phpunit/phpunit/src/TextUI/Command.php(179): PHPUnit_TextUI_TestRunner->doRun(Object(PHPUnit_Framework_TestSuite), Array)
+#9 /tmp/ide-phpunit.php(299): PHPUnit_TextUI_Command->run(Array, true)
+#10 /tmp/ide-phpunit.php(605): IDE_Base_PHPUnit_TextUI_Command::main()
+#11 {main} 
+2018-01-13T18:55:59+05:00 root  13212 INFO  checking 789 
+2018-01-13T18:55:59+05:00 root  13212 DEBUG looking Account by phone number 789 
+2018-01-13T18:56:17+05:00 root  13225 INFO  checking 789-И 
+2018-01-13T18:56:17+05:00 root  13225 INFO  Array
+(
+    [number] => 789-И
+    [address] => д. Сайгатина, ул. Совхозная, д.11, кв.22
+    [tariff] => Дон
+    [saldo] => 1375.0033
+    [IsLegal] => 0
+)
+ 
+2018-01-13T18:56:17+05:00 root  13225 INFO  checking 555555 
+2018-01-13T18:56:17+05:00 root  13225 DEBUG looking Account by phone number 555555 
+2018-01-13T18:56:18+05:00 root  13225 DEBUG 555555 -> А2756-Т ТЕХНОПАРК 
+2018-01-13T18:56:18+05:00 root  13225 INFO  Array
+(
+    [number] => А2756-Т
+    [address] => 628418, Тюменская обл., ХМАО-Югра, г. Сургут, ул. Лермонтова 11/5, офис 512.
+    [tariff] => Служебная телефония
+    [saldo] => 0.0048
+    [IsLegal] => 1
+)
+ 
+2018-01-13T18:56:18+05:00 root  13225 INFO  checking 789999-И 
+2018-01-13T18:56:18+05:00 root  13225 ERROR exception 'Weboplata\Exception' with message 'Неверный номер счета' in /home/alexey2baranov/htdocs/weboplata/lib/Weboplata/Weboplata2.php:153
+Stack trace:
+#0 /home/alexey2baranov/htdocs/weboplata/test/Weboplata/WeboplataTest2.php(63): Weboplata\Weboplata2->check('789999-\xD0\x98', 123456)
+#1 [internal function]: Weboplata\WeboplataTest->testcheckLocal()
+#2 /home/alexey2baranov/htdocs/weboplata/vendor/phpunit/phpunit/src/Framework/TestCase.php(952): ReflectionMethod->invokeArgs(Object(Weboplata\WeboplataTest), Array)
+#3 /home/alexey2baranov/htdocs/weboplata/vendor/phpunit/phpunit/src/Framework/TestCase.php(818): PHPUnit_Framework_TestCase->runTest()
+#4 /home/alexey2baranov/htdocs/weboplata/vendor/phpunit/phpunit/src/Framework/TestResult.php(686): PHPUnit_Framework_TestCase->runBare()
+#5 /home/alexey2baranov/htdocs/weboplata/vendor/phpunit/phpunit/src/Framework/TestCase.php(754): PHPUnit_Framework_TestResult->run(Object(Weboplata\WeboplataTest))
+#6 /home/alexey2baranov/htdocs/weboplata/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit_Framework_TestCase->run(Object(PHPUnit_Framework_TestResult))
+#7 /home/alexey2baranov/htdocs/weboplata/vendor/phpunit/phpunit/src/TextUI/TestRunner.php(425): PHPUnit_Framework_TestSuite->run(Object(PHPUnit_Framework_TestResult))
+#8 /home/alexey2baranov/htdocs/weboplata/vendor/phpunit/phpunit/src/TextUI/Command.php(179): PHPUnit_TextUI_TestRunner->doRun(Object(PHPUnit_Framework_TestSuite), Array)
+#9 /tmp/ide-phpunit.php(299): PHPUnit_TextUI_Command->run(Array, true)
+#10 /tmp/ide-phpunit.php(605): IDE_Base_PHPUnit_TextUI_Command::main()
+#11 {main} 
+2018-01-13T18:56:18+05:00 root  13225 INFO  checking 789 
+2018-01-13T18:56:18+05:00 root  13225 DEBUG looking Account by phone number 789 
+2018-01-13T18:56:18+05:00 root  13225 ERROR exception 'Weboplata\Exception' with message 'Неверный номер телефона' in /home/alexey2baranov/htdocs/weboplata/lib/Weboplata/Weboplata2.php:60
+Stack trace:
+#0 /home/alexey2baranov/htdocs/weboplata/lib/Weboplata/Weboplata2.php(103): Weboplata\Weboplata2->getAccountByPhoneNumber('789')
+#1 /home/alexey2baranov/htdocs/weboplata/test/Weboplata/WeboplataTest2.php(67): Weboplata\Weboplata2->check('789', 123456)
+#2 [internal function]: Weboplata\WeboplataTest->testcheckLocal()
+#3 /home/alexey2baranov/htdocs/weboplata/vendor/phpunit/phpunit/src/Framework/TestCase.php(952): ReflectionMethod->invokeArgs(Object(Weboplata\WeboplataTest), Array)
+#4 /home/alexey2baranov/htdocs/weboplata/vendor/phpunit/phpunit/src/Framework/TestCase.php(818): PHPUnit_Framework_TestCase->runTest()
+#5 /home/alexey2baranov/htdocs/weboplata/vendor/phpunit/phpunit/src/Framework/TestResult.php(686): PHPUnit_Framework_TestCase->runBare()
+#6 /home/alexey2baranov/htdocs/weboplata/vendor/phpunit/phpunit/src/Framework/TestCase.php(754): PHPUnit_Framework_TestResult->run(Object(Weboplata\WeboplataTest))
+#7 /home/alexey2baranov/htdocs/weboplata/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit_Framework_TestCase->run(Object(PHPUnit_Framework_TestResult))
+#8 /home/alexey2baranov/htdocs/weboplata/vendor/phpunit/phpunit/src/TextUI/TestRunner.php(425): PHPUnit_Framework_TestSuite->run(Object(PHPUnit_Framework_TestResult))
+#9 /home/alexey2baranov/htdocs/weboplata/vendor/phpunit/phpunit/src/TextUI/Command.php(179): PHPUnit_TextUI_TestRunner->doRun(Object(PHPUnit_Framework_TestSuite), Array)
+#10 /tmp/ide-phpunit.php(299): PHPUnit_TextUI_Command->run(Array, true)
+#11 /tmp/ide-phpunit.php(605): IDE_Base_PHPUnit_TextUI_Command::main()
+#12 {main} 
+2018-01-13T18:57:59+05:00 root  13255 INFO  checking 789-И 
+2018-01-13T18:57:59+05:00 root  13255 INFO  Array
+(
+    [number] => 789-И
+    [address] => д. Сайгатина, ул. Совхозная, д.11, кв.22
+    [tariff] => Дон
+    [saldo] => 1377.0033
+    [IsLegal] => 0
+)
+ 
+2018-01-13T18:57:59+05:00 root  13255 INFO  checking 555555 
+2018-01-13T18:57:59+05:00 root  13255 DEBUG looking Account by phone number 555555 
+2018-01-13T18:58:00+05:00 root  13255 DEBUG 555555 -> А2756-Т ТЕХНОПАРК 
+2018-01-13T18:58:00+05:00 root  13255 INFO  Array
+(
+    [number] => А2756-Т
+    [address] => 628418, Тюменская обл., ХМАО-Югра, г. Сургут, ул. Лермонтова 11/5, офис 512.
+    [tariff] => Служебная телефония
+    [saldo] => 0.0048
+    [IsLegal] => 1
+)
+ 
+2018-01-13T18:58:00+05:00 root  13255 INFO  checking 789999-И 
+2018-01-13T18:58:00+05:00 root  13255 ERROR exception 'Weboplata\Exception' with message 'Неверный номер счета' in /home/alexey2baranov/htdocs/weboplata/lib/Weboplata/Weboplata2.php:153
+Stack trace:
+#0 /home/alexey2baranov/htdocs/weboplata/test/Weboplata/WeboplataTest2.php(63): Weboplata\Weboplata2->check('789999-\xD0\x98', 123456)
+#1 [internal function]: Weboplata\WeboplataTest->testcheckLocal()
+#2 /home/alexey2baranov/htdocs/weboplata/vendor/phpunit/phpunit/src/Framework/TestCase.php(952): ReflectionMethod->invokeArgs(Object(Weboplata\WeboplataTest), Array)
+#3 /home/alexey2baranov/htdocs/weboplata/vendor/phpunit/phpunit/src/Framework/TestCase.php(818): PHPUnit_Framework_TestCase->runTest()
+#4 /home/alexey2baranov/htdocs/weboplata/vendor/phpunit/phpunit/src/Framework/TestResult.php(686): PHPUnit_Framework_TestCase->runBare()
+#5 /home/alexey2baranov/htdocs/weboplata/vendor/phpunit/phpunit/src/Framework/TestCase.php(754): PHPUnit_Framework_TestResult->run(Object(Weboplata\WeboplataTest))
+#6 /home/alexey2baranov/htdocs/weboplata/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit_Framework_TestCase->run(Object(PHPUnit_Framework_TestResult))
+#7 /home/alexey2baranov/htdocs/weboplata/vendor/phpunit/phpunit/src/TextUI/TestRunner.php(425): PHPUnit_Framework_TestSuite->run(Object(PHPUnit_Framework_TestResult))
+#8 /home/alexey2baranov/htdocs/weboplata/vendor/phpunit/phpunit/src/TextUI/Command.php(179): PHPUnit_TextUI_TestRunner->doRun(Object(PHPUnit_Framework_TestSuite), Array)
+#9 /tmp/ide-phpunit.php(299): PHPUnit_TextUI_Command->run(Array, true)
+#10 /tmp/ide-phpunit.php(605): IDE_Base_PHPUnit_TextUI_Command::main()
+#11 {main} 
+2018-01-13T18:58:00+05:00 root  13255 INFO  checking 789 
+2018-01-13T18:58:00+05:00 root  13255 DEBUG looking Account by phone number 789 
+2018-01-13T18:58:00+05:00 root  13255 ERROR exception 'Weboplata\Exception' with message 'Неверный номер телефона' in /home/alexey2baranov/htdocs/weboplata/lib/Weboplata/Weboplata2.php:60
+Stack trace:
+#0 /home/alexey2baranov/htdocs/weboplata/lib/Weboplata/Weboplata2.php(103): Weboplata\Weboplata2->getAccountByPhoneNumber('789')
+#1 /home/alexey2baranov/htdocs/weboplata/test/Weboplata/WeboplataTest2.php(67): Weboplata\Weboplata2->check('789', 123456)
+#2 [internal function]: Weboplata\WeboplataTest->testcheckLocal()
+#3 /home/alexey2baranov/htdocs/weboplata/vendor/phpunit/phpunit/src/Framework/TestCase.php(952): ReflectionMethod->invokeArgs(Object(Weboplata\WeboplataTest), Array)
+#4 /home/alexey2baranov/htdocs/weboplata/vendor/phpunit/phpunit/src/Framework/TestCase.php(818): PHPUnit_Framework_TestCase->runTest()
+#5 /home/alexey2baranov/htdocs/weboplata/vendor/phpunit/phpunit/src/Framework/TestResult.php(686): PHPUnit_Framework_TestCase->runBare()
+#6 /home/alexey2baranov/htdocs/weboplata/vendor/phpunit/phpunit/src/Framework/TestCase.php(754): PHPUnit_Framework_TestResult->run(Object(Weboplata\WeboplataTest))
+#7 /home/alexey2baranov/htdocs/weboplata/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit_Framework_TestCase->run(Object(PHPUnit_Framework_TestResult))
+#8 /home/alexey2baranov/htdocs/weboplata/vendor/phpunit/phpunit/src/TextUI/TestRunner.php(425): PHPUnit_Framework_TestSuite->run(Object(PHPUnit_Framework_TestResult))
+#9 /home/alexey2baranov/htdocs/weboplata/vendor/phpunit/phpunit/src/TextUI/Command.php(179): PHPUnit_TextUI_TestRunner->doRun(Object(PHPUnit_Framework_TestSuite), Array)
+#10 /tmp/ide-phpunit.php(299): PHPUnit_TextUI_Command->run(Array, true)
+#11 /tmp/ide-phpunit.php(605): IDE_Base_PHPUnit_TextUI_Command::main()
+#12 {main} 

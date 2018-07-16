@@ -1,0 +1,38 @@
+{
+    "name": "alexey_baranov/weboplata",
+    "description": "tele-plus weboplata service",
+    "authors": [
+        {
+            "name": "Alexey Baranov",
+            "email": "alexey_baranov@inbox.ru"
+        }
+    ],
+    "license":"proprietary",
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "git@github.com:alexey-baranov/page.git"
+        },
+        {
+            "type": "vcs",
+            "url": "git@github.com:alexey-baranov/phpexcelex.git"
+        },
+        {
+           "type": "vcs",
+           "url": "git@github.com:alexey-baranov/billing.git"
+        }
+    ],
+    "require": {
+        "alexey_baranov/billing" : "~1.0",
+        "apache/log4php": "~2.3",
+        "zendframework/zendframework1": "~1.12"
+    },
+    "require-dev": {
+        "PHPUnit/PHPUnit": "4.0.*"
+    },
+    "autoload": {
+        "psr-0": {
+            "Weboplata\\": "lib/"
+        }
+    }
+}

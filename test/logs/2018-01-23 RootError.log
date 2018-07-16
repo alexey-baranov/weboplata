@@ -1,0 +1,373 @@
+2018-01-23T20:20:25+05:00 root  8504 ERROR exception 'Weboplata\Exception' with message 'Неверный номер счета' in /home/alexey2baranov/htdocs/weboplata/lib/Weboplata/Weboplata2.php:153
+Stack trace:
+#0 /home/alexey2baranov/htdocs/weboplata/test/Weboplata/WeboplataTest2.php(61): Weboplata\Weboplata2->check('789999-\xD0\x98', 123456)
+#1 [internal function]: Weboplata\WeboplataTest->testcheckLocal()
+#2 /home/alexey2baranov/htdocs/weboplata/vendor/phpunit/phpunit/src/Framework/TestCase.php(952): ReflectionMethod->invokeArgs(Object(Weboplata\WeboplataTest), Array)
+#3 /home/alexey2baranov/htdocs/weboplata/vendor/phpunit/phpunit/src/Framework/TestCase.php(818): PHPUnit_Framework_TestCase->runTest()
+#4 /home/alexey2baranov/htdocs/weboplata/vendor/phpunit/phpunit/src/Framework/TestResult.php(686): PHPUnit_Framework_TestCase->runBare()
+#5 /home/alexey2baranov/htdocs/weboplata/vendor/phpunit/phpunit/src/Framework/TestCase.php(754): PHPUnit_Framework_TestResult->run(Object(Weboplata\WeboplataTest))
+#6 /home/alexey2baranov/htdocs/weboplata/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit_Framework_TestCase->run(Object(PHPUnit_Framework_TestResult))
+#7 /home/alexey2baranov/htdocs/weboplata/vendor/phpunit/phpunit/src/TextUI/TestRunner.php(425): PHPUnit_Framework_TestSuite->run(Object(PHPUnit_Framework_TestResult))
+#8 /home/alexey2baranov/htdocs/weboplata/vendor/phpunit/phpunit/src/TextUI/Command.php(179): PHPUnit_TextUI_TestRunner->doRun(Object(PHPUnit_Framework_TestSuite), Array)
+#9 /tmp/ide-phpunit.php(299): PHPUnit_TextUI_Command->run(Array, true)
+#10 /tmp/ide-phpunit.php(605): IDE_Base_PHPUnit_TextUI_Command::main()
+#11 {main} 
+2018-01-23T20:20:25+05:00 root  8504 ERROR exception 'Weboplata\Exception' with message 'Неверный номер телефона' in /home/alexey2baranov/htdocs/weboplata/lib/Weboplata/Weboplata2.php:60
+Stack trace:
+#0 /home/alexey2baranov/htdocs/weboplata/lib/Weboplata/Weboplata2.php(103): Weboplata\Weboplata2->getAccountByPhoneNumber('789')
+#1 /home/alexey2baranov/htdocs/weboplata/test/Weboplata/WeboplataTest2.php(65): Weboplata\Weboplata2->check('789', 123456)
+#2 [internal function]: Weboplata\WeboplataTest->testcheckLocal()
+#3 /home/alexey2baranov/htdocs/weboplata/vendor/phpunit/phpunit/src/Framework/TestCase.php(952): ReflectionMethod->invokeArgs(Object(Weboplata\WeboplataTest), Array)
+#4 /home/alexey2baranov/htdocs/weboplata/vendor/phpunit/phpunit/src/Framework/TestCase.php(818): PHPUnit_Framework_TestCase->runTest()
+#5 /home/alexey2baranov/htdocs/weboplata/vendor/phpunit/phpunit/src/Framework/TestResult.php(686): PHPUnit_Framework_TestCase->runBare()
+#6 /home/alexey2baranov/htdocs/weboplata/vendor/phpunit/phpunit/src/Framework/TestCase.php(754): PHPUnit_Framework_TestResult->run(Object(Weboplata\WeboplataTest))
+#7 /home/alexey2baranov/htdocs/weboplata/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit_Framework_TestCase->run(Object(PHPUnit_Framework_TestResult))
+#8 /home/alexey2baranov/htdocs/weboplata/vendor/phpunit/phpunit/src/TextUI/TestRunner.php(425): PHPUnit_Framework_TestSuite->run(Object(PHPUnit_Framework_TestResult))
+#9 /home/alexey2baranov/htdocs/weboplata/vendor/phpunit/phpunit/src/TextUI/Command.php(179): PHPUnit_TextUI_TestRunner->doRun(Object(PHPUnit_Framework_TestSuite), Array)
+#10 /tmp/ide-phpunit.php(299): PHPUnit_TextUI_Command->run(Array, true)
+#11 /tmp/ide-phpunit.php(605): IDE_Base_PHPUnit_TextUI_Command::main()
+#12 {main} 
+2018-01-23T20:22:14+05:00 root  8643 ERROR exception 'Weboplata\Exception' with message 'Неверный номер счета' in /home/alexey2baranov/htdocs/weboplata/lib/Weboplata/Weboplata2.php:153
+Stack trace:
+#0 /home/alexey2baranov/htdocs/weboplata/test/Weboplata/WeboplataTest2.php(61): Weboplata\Weboplata2->check('789999-\xD0\x98', 123456)
+#1 [internal function]: Weboplata\WeboplataTest->testcheckLocal()
+#2 /home/alexey2baranov/htdocs/weboplata/vendor/phpunit/phpunit/src/Framework/TestCase.php(952): ReflectionMethod->invokeArgs(Object(Weboplata\WeboplataTest), Array)
+#3 /home/alexey2baranov/htdocs/weboplata/vendor/phpunit/phpunit/src/Framework/TestCase.php(818): PHPUnit_Framework_TestCase->runTest()
+#4 /home/alexey2baranov/htdocs/weboplata/vendor/phpunit/phpunit/src/Framework/TestResult.php(686): PHPUnit_Framework_TestCase->runBare()
+#5 /home/alexey2baranov/htdocs/weboplata/vendor/phpunit/phpunit/src/Framework/TestCase.php(754): PHPUnit_Framework_TestResult->run(Object(Weboplata\WeboplataTest))
+#6 /home/alexey2baranov/htdocs/weboplata/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit_Framework_TestCase->run(Object(PHPUnit_Framework_TestResult))
+#7 /home/alexey2baranov/htdocs/weboplata/vendor/phpunit/phpunit/src/TextUI/TestRunner.php(425): PHPUnit_Framework_TestSuite->run(Object(PHPUnit_Framework_TestResult))
+#8 /home/alexey2baranov/htdocs/weboplata/vendor/phpunit/phpunit/src/TextUI/Command.php(179): PHPUnit_TextUI_TestRunner->doRun(Object(PHPUnit_Framework_TestSuite), Array)
+#9 /tmp/ide-phpunit.php(299): PHPUnit_TextUI_Command->run(Array, true)
+#10 /tmp/ide-phpunit.php(605): IDE_Base_PHPUnit_TextUI_Command::main()
+#11 {main} 
+2018-01-23T20:22:14+05:00 root  8643 ERROR exception 'Weboplata\Exception' with message 'Неверный номер телефона' in /home/alexey2baranov/htdocs/weboplata/lib/Weboplata/Weboplata2.php:60
+Stack trace:
+#0 /home/alexey2baranov/htdocs/weboplata/lib/Weboplata/Weboplata2.php(103): Weboplata\Weboplata2->getAccountByPhoneNumber('789')
+#1 /home/alexey2baranov/htdocs/weboplata/test/Weboplata/WeboplataTest2.php(65): Weboplata\Weboplata2->check('789', 123456)
+#2 [internal function]: Weboplata\WeboplataTest->testcheckLocal()
+#3 /home/alexey2baranov/htdocs/weboplata/vendor/phpunit/phpunit/src/Framework/TestCase.php(952): ReflectionMethod->invokeArgs(Object(Weboplata\WeboplataTest), Array)
+#4 /home/alexey2baranov/htdocs/weboplata/vendor/phpunit/phpunit/src/Framework/TestCase.php(818): PHPUnit_Framework_TestCase->runTest()
+#5 /home/alexey2baranov/htdocs/weboplata/vendor/phpunit/phpunit/src/Framework/TestResult.php(686): PHPUnit_Framework_TestCase->runBare()
+#6 /home/alexey2baranov/htdocs/weboplata/vendor/phpunit/phpunit/src/Framework/TestCase.php(754): PHPUnit_Framework_TestResult->run(Object(Weboplata\WeboplataTest))
+#7 /home/alexey2baranov/htdocs/weboplata/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit_Framework_TestCase->run(Object(PHPUnit_Framework_TestResult))
+#8 /home/alexey2baranov/htdocs/weboplata/vendor/phpunit/phpunit/src/TextUI/TestRunner.php(425): PHPUnit_Framework_TestSuite->run(Object(PHPUnit_Framework_TestResult))
+#9 /home/alexey2baranov/htdocs/weboplata/vendor/phpunit/phpunit/src/TextUI/Command.php(179): PHPUnit_TextUI_TestRunner->doRun(Object(PHPUnit_Framework_TestSuite), Array)
+#10 /tmp/ide-phpunit.php(299): PHPUnit_TextUI_Command->run(Array, true)
+#11 /tmp/ide-phpunit.php(605): IDE_Base_PHPUnit_TextUI_Command::main()
+#12 {main} 
+2018-01-23T20:49:01+05:00 root  9638 ERROR exception 'Weboplata\Exception' with message 'Неверный номер счета' in /home/alexey2baranov/htdocs/weboplata/lib/Weboplata/Weboplata2.php:150
+Stack trace:
+#0 /home/alexey2baranov/htdocs/weboplata/test/Weboplata/WeboplataTest2.php(59): Weboplata\Weboplata2->check('789999-\xD0\x98')
+#1 [internal function]: Weboplata\WeboplataTest->testcheckLocal()
+#2 /home/alexey2baranov/htdocs/weboplata/vendor/phpunit/phpunit/src/Framework/TestCase.php(952): ReflectionMethod->invokeArgs(Object(Weboplata\WeboplataTest), Array)
+#3 /home/alexey2baranov/htdocs/weboplata/vendor/phpunit/phpunit/src/Framework/TestCase.php(818): PHPUnit_Framework_TestCase->runTest()
+#4 /home/alexey2baranov/htdocs/weboplata/vendor/phpunit/phpunit/src/Framework/TestResult.php(686): PHPUnit_Framework_TestCase->runBare()
+#5 /home/alexey2baranov/htdocs/weboplata/vendor/phpunit/phpunit/src/Framework/TestCase.php(754): PHPUnit_Framework_TestResult->run(Object(Weboplata\WeboplataTest))
+#6 /home/alexey2baranov/htdocs/weboplata/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit_Framework_TestCase->run(Object(PHPUnit_Framework_TestResult))
+#7 /home/alexey2baranov/htdocs/weboplata/vendor/phpunit/phpunit/src/TextUI/TestRunner.php(425): PHPUnit_Framework_TestSuite->run(Object(PHPUnit_Framework_TestResult))
+#8 /home/alexey2baranov/htdocs/weboplata/vendor/phpunit/phpunit/src/TextUI/Command.php(179): PHPUnit_TextUI_TestRunner->doRun(Object(PHPUnit_Framework_TestSuite), Array)
+#9 /tmp/ide-phpunit.php(299): PHPUnit_TextUI_Command->run(Array, true)
+#10 /tmp/ide-phpunit.php(605): IDE_Base_PHPUnit_TextUI_Command::main()
+#11 {main} 
+2018-01-23T20:49:24+05:00 root  9670 ERROR exception 'Weboplata\Exception' with message 'Неверный номер счета' in /home/alexey2baranov/htdocs/weboplata/lib/Weboplata/Weboplata2.php:150
+Stack trace:
+#0 /home/alexey2baranov/htdocs/weboplata/test/Weboplata/WeboplataTest2.php(59): Weboplata\Weboplata2->check('789999-\xD0\x98')
+#1 [internal function]: Weboplata\WeboplataTest->testcheckLocal()
+#2 /home/alexey2baranov/htdocs/weboplata/vendor/phpunit/phpunit/src/Framework/TestCase.php(952): ReflectionMethod->invokeArgs(Object(Weboplata\WeboplataTest), Array)
+#3 /home/alexey2baranov/htdocs/weboplata/vendor/phpunit/phpunit/src/Framework/TestCase.php(818): PHPUnit_Framework_TestCase->runTest()
+#4 /home/alexey2baranov/htdocs/weboplata/vendor/phpunit/phpunit/src/Framework/TestResult.php(686): PHPUnit_Framework_TestCase->runBare()
+#5 /home/alexey2baranov/htdocs/weboplata/vendor/phpunit/phpunit/src/Framework/TestCase.php(754): PHPUnit_Framework_TestResult->run(Object(Weboplata\WeboplataTest))
+#6 /home/alexey2baranov/htdocs/weboplata/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit_Framework_TestCase->run(Object(PHPUnit_Framework_TestResult))
+#7 /home/alexey2baranov/htdocs/weboplata/vendor/phpunit/phpunit/src/TextUI/TestRunner.php(425): PHPUnit_Framework_TestSuite->run(Object(PHPUnit_Framework_TestResult))
+#8 /home/alexey2baranov/htdocs/weboplata/vendor/phpunit/phpunit/src/TextUI/Command.php(179): PHPUnit_TextUI_TestRunner->doRun(Object(PHPUnit_Framework_TestSuite), Array)
+#9 /tmp/ide-phpunit.php(299): PHPUnit_TextUI_Command->run(Array, true)
+#10 /tmp/ide-phpunit.php(605): IDE_Base_PHPUnit_TextUI_Command::main()
+#11 {main} 
+2018-01-23T20:50:02+05:00 root  9693 ERROR exception 'Weboplata\Exception' with message 'Неверный номер счета' in /home/alexey2baranov/htdocs/weboplata/lib/Weboplata/Weboplata2.php:150
+Stack trace:
+#0 /home/alexey2baranov/htdocs/weboplata/test/Weboplata/WeboplataTest2.php(59): Weboplata\Weboplata2->check('789999-\xD0\x98')
+#1 [internal function]: Weboplata\WeboplataTest->testcheckLocal()
+#2 /home/alexey2baranov/htdocs/weboplata/vendor/phpunit/phpunit/src/Framework/TestCase.php(952): ReflectionMethod->invokeArgs(Object(Weboplata\WeboplataTest), Array)
+#3 /home/alexey2baranov/htdocs/weboplata/vendor/phpunit/phpunit/src/Framework/TestCase.php(818): PHPUnit_Framework_TestCase->runTest()
+#4 /home/alexey2baranov/htdocs/weboplata/vendor/phpunit/phpunit/src/Framework/TestResult.php(686): PHPUnit_Framework_TestCase->runBare()
+#5 /home/alexey2baranov/htdocs/weboplata/vendor/phpunit/phpunit/src/Framework/TestCase.php(754): PHPUnit_Framework_TestResult->run(Object(Weboplata\WeboplataTest))
+#6 /home/alexey2baranov/htdocs/weboplata/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit_Framework_TestCase->run(Object(PHPUnit_Framework_TestResult))
+#7 /home/alexey2baranov/htdocs/weboplata/vendor/phpunit/phpunit/src/TextUI/TestRunner.php(425): PHPUnit_Framework_TestSuite->run(Object(PHPUnit_Framework_TestResult))
+#8 /home/alexey2baranov/htdocs/weboplata/vendor/phpunit/phpunit/src/TextUI/Command.php(179): PHPUnit_TextUI_TestRunner->doRun(Object(PHPUnit_Framework_TestSuite), Array)
+#9 /tmp/ide-phpunit.php(299): PHPUnit_TextUI_Command->run(Array, true)
+#10 /tmp/ide-phpunit.php(605): IDE_Base_PHPUnit_TextUI_Command::main()
+#11 {main} 
+2018-01-23T20:54:36+05:00 root  9826 ERROR exception 'Weboplata\Exception' with message 'Неверный номер счета' in /home/alexey2baranov/htdocs/weboplata/lib/Weboplata/Weboplata2.php:150
+Stack trace:
+#0 /home/alexey2baranov/htdocs/weboplata/test/Weboplata/WeboplataTest2.php(59): Weboplata\Weboplata2->check('789999-\xD0\x98')
+#1 [internal function]: Weboplata\WeboplataTest->testcheckLocal()
+#2 /home/alexey2baranov/htdocs/weboplata/vendor/phpunit/phpunit/src/Framework/TestCase.php(952): ReflectionMethod->invokeArgs(Object(Weboplata\WeboplataTest), Array)
+#3 /home/alexey2baranov/htdocs/weboplata/vendor/phpunit/phpunit/src/Framework/TestCase.php(818): PHPUnit_Framework_TestCase->runTest()
+#4 /home/alexey2baranov/htdocs/weboplata/vendor/phpunit/phpunit/src/Framework/TestResult.php(686): PHPUnit_Framework_TestCase->runBare()
+#5 /home/alexey2baranov/htdocs/weboplata/vendor/phpunit/phpunit/src/Framework/TestCase.php(754): PHPUnit_Framework_TestResult->run(Object(Weboplata\WeboplataTest))
+#6 /home/alexey2baranov/htdocs/weboplata/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit_Framework_TestCase->run(Object(PHPUnit_Framework_TestResult))
+#7 /home/alexey2baranov/htdocs/weboplata/vendor/phpunit/phpunit/src/TextUI/TestRunner.php(425): PHPUnit_Framework_TestSuite->run(Object(PHPUnit_Framework_TestResult))
+#8 /home/alexey2baranov/htdocs/weboplata/vendor/phpunit/phpunit/src/TextUI/Command.php(179): PHPUnit_TextUI_TestRunner->doRun(Object(PHPUnit_Framework_TestSuite), Array)
+#9 /tmp/ide-phpunit.php(299): PHPUnit_TextUI_Command->run(Array, true)
+#10 /tmp/ide-phpunit.php(605): IDE_Base_PHPUnit_TextUI_Command::main()
+#11 {main} 
+2018-01-23T20:56:15+05:00 root  9892 ERROR exception 'Weboplata\Exception' with message 'Неверный номер счета' in /home/alexey2baranov/htdocs/weboplata/lib/Weboplata/Weboplata2.php:150
+Stack trace:
+#0 /home/alexey2baranov/htdocs/weboplata/test/Weboplata/WeboplataTest2.php(59): Weboplata\Weboplata2->check('789999-\xD0\x98')
+#1 [internal function]: Weboplata\WeboplataTest->testcheckLocal()
+#2 /home/alexey2baranov/htdocs/weboplata/vendor/phpunit/phpunit/src/Framework/TestCase.php(952): ReflectionMethod->invokeArgs(Object(Weboplata\WeboplataTest), Array)
+#3 /home/alexey2baranov/htdocs/weboplata/vendor/phpunit/phpunit/src/Framework/TestCase.php(818): PHPUnit_Framework_TestCase->runTest()
+#4 /home/alexey2baranov/htdocs/weboplata/vendor/phpunit/phpunit/src/Framework/TestResult.php(686): PHPUnit_Framework_TestCase->runBare()
+#5 /home/alexey2baranov/htdocs/weboplata/vendor/phpunit/phpunit/src/Framework/TestCase.php(754): PHPUnit_Framework_TestResult->run(Object(Weboplata\WeboplataTest))
+#6 /home/alexey2baranov/htdocs/weboplata/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit_Framework_TestCase->run(Object(PHPUnit_Framework_TestResult))
+#7 /home/alexey2baranov/htdocs/weboplata/vendor/phpunit/phpunit/src/TextUI/TestRunner.php(425): PHPUnit_Framework_TestSuite->run(Object(PHPUnit_Framework_TestResult))
+#8 /home/alexey2baranov/htdocs/weboplata/vendor/phpunit/phpunit/src/TextUI/Command.php(179): PHPUnit_TextUI_TestRunner->doRun(Object(PHPUnit_Framework_TestSuite), Array)
+#9 /tmp/ide-phpunit.php(299): PHPUnit_TextUI_Command->run(Array, true)
+#10 /tmp/ide-phpunit.php(605): IDE_Base_PHPUnit_TextUI_Command::main()
+#11 {main} 
+2018-01-23T20:56:42+05:00 root  9908 ERROR exception 'Weboplata\Exception' with message 'Неверный номер счета' in /home/alexey2baranov/htdocs/weboplata/lib/Weboplata/Weboplata2.php:150
+Stack trace:
+#0 /home/alexey2baranov/htdocs/weboplata/test/Weboplata/WeboplataTest2.php(59): Weboplata\Weboplata2->check('789999-\xD0\x98')
+#1 [internal function]: Weboplata\WeboplataTest->testcheckLocal()
+#2 /home/alexey2baranov/htdocs/weboplata/vendor/phpunit/phpunit/src/Framework/TestCase.php(952): ReflectionMethod->invokeArgs(Object(Weboplata\WeboplataTest), Array)
+#3 /home/alexey2baranov/htdocs/weboplata/vendor/phpunit/phpunit/src/Framework/TestCase.php(818): PHPUnit_Framework_TestCase->runTest()
+#4 /home/alexey2baranov/htdocs/weboplata/vendor/phpunit/phpunit/src/Framework/TestResult.php(686): PHPUnit_Framework_TestCase->runBare()
+#5 /home/alexey2baranov/htdocs/weboplata/vendor/phpunit/phpunit/src/Framework/TestCase.php(754): PHPUnit_Framework_TestResult->run(Object(Weboplata\WeboplataTest))
+#6 /home/alexey2baranov/htdocs/weboplata/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit_Framework_TestCase->run(Object(PHPUnit_Framework_TestResult))
+#7 /home/alexey2baranov/htdocs/weboplata/vendor/phpunit/phpunit/src/TextUI/TestRunner.php(425): PHPUnit_Framework_TestSuite->run(Object(PHPUnit_Framework_TestResult))
+#8 /home/alexey2baranov/htdocs/weboplata/vendor/phpunit/phpunit/src/TextUI/Command.php(179): PHPUnit_TextUI_TestRunner->doRun(Object(PHPUnit_Framework_TestSuite), Array)
+#9 /tmp/ide-phpunit.php(299): PHPUnit_TextUI_Command->run(Array, true)
+#10 /tmp/ide-phpunit.php(605): IDE_Base_PHPUnit_TextUI_Command::main()
+#11 {main} 
+2018-01-23T21:01:35+05:00 root  10051 ERROR exception 'Weboplata\Exception' with message 'Неверный номер счета' in /home/alexey2baranov/htdocs/weboplata/lib/Weboplata/Weboplata2.php:150
+Stack trace:
+#0 /home/alexey2baranov/htdocs/weboplata/test/Weboplata/WeboplataTest2.php(59): Weboplata\Weboplata2->check('789999-\xD0\x98')
+#1 [internal function]: Weboplata\WeboplataTest->testcheckLocal()
+#2 /home/alexey2baranov/htdocs/weboplata/vendor/phpunit/phpunit/src/Framework/TestCase.php(952): ReflectionMethod->invokeArgs(Object(Weboplata\WeboplataTest), Array)
+#3 /home/alexey2baranov/htdocs/weboplata/vendor/phpunit/phpunit/src/Framework/TestCase.php(818): PHPUnit_Framework_TestCase->runTest()
+#4 /home/alexey2baranov/htdocs/weboplata/vendor/phpunit/phpunit/src/Framework/TestResult.php(686): PHPUnit_Framework_TestCase->runBare()
+#5 /home/alexey2baranov/htdocs/weboplata/vendor/phpunit/phpunit/src/Framework/TestCase.php(754): PHPUnit_Framework_TestResult->run(Object(Weboplata\WeboplataTest))
+#6 /home/alexey2baranov/htdocs/weboplata/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit_Framework_TestCase->run(Object(PHPUnit_Framework_TestResult))
+#7 /home/alexey2baranov/htdocs/weboplata/vendor/phpunit/phpunit/src/TextUI/TestRunner.php(425): PHPUnit_Framework_TestSuite->run(Object(PHPUnit_Framework_TestResult))
+#8 /home/alexey2baranov/htdocs/weboplata/vendor/phpunit/phpunit/src/TextUI/Command.php(179): PHPUnit_TextUI_TestRunner->doRun(Object(PHPUnit_Framework_TestSuite), Array)
+#9 /tmp/ide-phpunit.php(299): PHPUnit_TextUI_Command->run(Array, true)
+#10 /tmp/ide-phpunit.php(605): IDE_Base_PHPUnit_TextUI_Command::main()
+#11 {main} 
+2018-01-23T21:02:31+05:00 root  10088 ERROR exception 'Weboplata\Exception' with message 'Неверный номер счета' in /home/alexey2baranov/htdocs/weboplata/lib/Weboplata/Weboplata2.php:150
+Stack trace:
+#0 /home/alexey2baranov/htdocs/weboplata/test/Weboplata/WeboplataTest2.php(59): Weboplata\Weboplata2->check('789999-\xD0\x98')
+#1 [internal function]: Weboplata\WeboplataTest->testcheckLocal()
+#2 /home/alexey2baranov/htdocs/weboplata/vendor/phpunit/phpunit/src/Framework/TestCase.php(952): ReflectionMethod->invokeArgs(Object(Weboplata\WeboplataTest), Array)
+#3 /home/alexey2baranov/htdocs/weboplata/vendor/phpunit/phpunit/src/Framework/TestCase.php(818): PHPUnit_Framework_TestCase->runTest()
+#4 /home/alexey2baranov/htdocs/weboplata/vendor/phpunit/phpunit/src/Framework/TestResult.php(686): PHPUnit_Framework_TestCase->runBare()
+#5 /home/alexey2baranov/htdocs/weboplata/vendor/phpunit/phpunit/src/Framework/TestCase.php(754): PHPUnit_Framework_TestResult->run(Object(Weboplata\WeboplataTest))
+#6 /home/alexey2baranov/htdocs/weboplata/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit_Framework_TestCase->run(Object(PHPUnit_Framework_TestResult))
+#7 /home/alexey2baranov/htdocs/weboplata/vendor/phpunit/phpunit/src/TextUI/TestRunner.php(425): PHPUnit_Framework_TestSuite->run(Object(PHPUnit_Framework_TestResult))
+#8 /home/alexey2baranov/htdocs/weboplata/vendor/phpunit/phpunit/src/TextUI/Command.php(179): PHPUnit_TextUI_TestRunner->doRun(Object(PHPUnit_Framework_TestSuite), Array)
+#9 /tmp/ide-phpunit.php(299): PHPUnit_TextUI_Command->run(Array, true)
+#10 /tmp/ide-phpunit.php(605): IDE_Base_PHPUnit_TextUI_Command::main()
+#11 {main} 
+2018-01-23T21:02:31+05:00 root  10088 ERROR exception 'Weboplata\Exception' with message 'Неверный номер телефона' in /home/alexey2baranov/htdocs/weboplata/lib/Weboplata/Weboplata2.php:60
+Stack trace:
+#0 /home/alexey2baranov/htdocs/weboplata/lib/Weboplata/Weboplata2.php(102): Weboplata\Weboplata2->getAccountByPhoneNumber('789')
+#1 /home/alexey2baranov/htdocs/weboplata/test/Weboplata/WeboplataTest2.php(62): Weboplata\Weboplata2->check('789')
+#2 [internal function]: Weboplata\WeboplataTest->testcheckLocal()
+#3 /home/alexey2baranov/htdocs/weboplata/vendor/phpunit/phpunit/src/Framework/TestCase.php(952): ReflectionMethod->invokeArgs(Object(Weboplata\WeboplataTest), Array)
+#4 /home/alexey2baranov/htdocs/weboplata/vendor/phpunit/phpunit/src/Framework/TestCase.php(818): PHPUnit_Framework_TestCase->runTest()
+#5 /home/alexey2baranov/htdocs/weboplata/vendor/phpunit/phpunit/src/Framework/TestResult.php(686): PHPUnit_Framework_TestCase->runBare()
+#6 /home/alexey2baranov/htdocs/weboplata/vendor/phpunit/phpunit/src/Framework/TestCase.php(754): PHPUnit_Framework_TestResult->run(Object(Weboplata\WeboplataTest))
+#7 /home/alexey2baranov/htdocs/weboplata/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit_Framework_TestCase->run(Object(PHPUnit_Framework_TestResult))
+#8 /home/alexey2baranov/htdocs/weboplata/vendor/phpunit/phpunit/src/TextUI/TestRunner.php(425): PHPUnit_Framework_TestSuite->run(Object(PHPUnit_Framework_TestResult))
+#9 /home/alexey2baranov/htdocs/weboplata/vendor/phpunit/phpunit/src/TextUI/Command.php(179): PHPUnit_TextUI_TestRunner->doRun(Object(PHPUnit_Framework_TestSuite), Array)
+#10 /tmp/ide-phpunit.php(299): PHPUnit_TextUI_Command->run(Array, true)
+#11 /tmp/ide-phpunit.php(605): IDE_Base_PHPUnit_TextUI_Command::main()
+#12 {main} 
+2018-01-23T21:12:31+05:00 root  10507 ERROR exception 'Weboplata\Exception' with message 'Неверный номер счета' in /home/alexey2baranov/htdocs/weboplata/lib/Weboplata/Weboplata2.php:150
+Stack trace:
+#0 /home/alexey2baranov/htdocs/weboplata/test/Weboplata/WeboplataTest2.php(59): Weboplata\Weboplata2->check('789999-\xD0\x98')
+#1 [internal function]: Weboplata\WeboplataTest->testcheckLocal()
+#2 /home/alexey2baranov/htdocs/weboplata/vendor/phpunit/phpunit/src/Framework/TestCase.php(952): ReflectionMethod->invokeArgs(Object(Weboplata\WeboplataTest), Array)
+#3 /home/alexey2baranov/htdocs/weboplata/vendor/phpunit/phpunit/src/Framework/TestCase.php(818): PHPUnit_Framework_TestCase->runTest()
+#4 /home/alexey2baranov/htdocs/weboplata/vendor/phpunit/phpunit/src/Framework/TestResult.php(686): PHPUnit_Framework_TestCase->runBare()
+#5 /home/alexey2baranov/htdocs/weboplata/vendor/phpunit/phpunit/src/Framework/TestCase.php(754): PHPUnit_Framework_TestResult->run(Object(Weboplata\WeboplataTest))
+#6 /home/alexey2baranov/htdocs/weboplata/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit_Framework_TestCase->run(Object(PHPUnit_Framework_TestResult))
+#7 /home/alexey2baranov/htdocs/weboplata/vendor/phpunit/phpunit/src/TextUI/TestRunner.php(425): PHPUnit_Framework_TestSuite->run(Object(PHPUnit_Framework_TestResult))
+#8 /home/alexey2baranov/htdocs/weboplata/vendor/phpunit/phpunit/src/TextUI/Command.php(179): PHPUnit_TextUI_TestRunner->doRun(Object(PHPUnit_Framework_TestSuite), Array)
+#9 /tmp/ide-phpunit.php(299): PHPUnit_TextUI_Command->run(Array, true)
+#10 /tmp/ide-phpunit.php(605): IDE_Base_PHPUnit_TextUI_Command::main()
+#11 {main} 
+2018-01-23T21:12:31+05:00 root  10507 ERROR exception 'Weboplata\Exception' with message 'Неверный номер телефона' in /home/alexey2baranov/htdocs/weboplata/lib/Weboplata/Weboplata2.php:60
+Stack trace:
+#0 /home/alexey2baranov/htdocs/weboplata/lib/Weboplata/Weboplata2.php(102): Weboplata\Weboplata2->getAccountByPhoneNumber('789')
+#1 /home/alexey2baranov/htdocs/weboplata/test/Weboplata/WeboplataTest2.php(62): Weboplata\Weboplata2->check('789')
+#2 [internal function]: Weboplata\WeboplataTest->testcheckLocal()
+#3 /home/alexey2baranov/htdocs/weboplata/vendor/phpunit/phpunit/src/Framework/TestCase.php(952): ReflectionMethod->invokeArgs(Object(Weboplata\WeboplataTest), Array)
+#4 /home/alexey2baranov/htdocs/weboplata/vendor/phpunit/phpunit/src/Framework/TestCase.php(818): PHPUnit_Framework_TestCase->runTest()
+#5 /home/alexey2baranov/htdocs/weboplata/vendor/phpunit/phpunit/src/Framework/TestResult.php(686): PHPUnit_Framework_TestCase->runBare()
+#6 /home/alexey2baranov/htdocs/weboplata/vendor/phpunit/phpunit/src/Framework/TestCase.php(754): PHPUnit_Framework_TestResult->run(Object(Weboplata\WeboplataTest))
+#7 /home/alexey2baranov/htdocs/weboplata/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit_Framework_TestCase->run(Object(PHPUnit_Framework_TestResult))
+#8 /home/alexey2baranov/htdocs/weboplata/vendor/phpunit/phpunit/src/TextUI/TestRunner.php(425): PHPUnit_Framework_TestSuite->run(Object(PHPUnit_Framework_TestResult))
+#9 /home/alexey2baranov/htdocs/weboplata/vendor/phpunit/phpunit/src/TextUI/Command.php(179): PHPUnit_TextUI_TestRunner->doRun(Object(PHPUnit_Framework_TestSuite), Array)
+#10 /tmp/ide-phpunit.php(299): PHPUnit_TextUI_Command->run(Array, true)
+#11 /tmp/ide-phpunit.php(605): IDE_Base_PHPUnit_TextUI_Command::main()
+#12 {main} 
+2018-01-23T21:12:33+05:00 root  10507 ERROR exception 'Weboplata\Exception' with message 'Платеж с таким вшеншим идентификатором уже существует' in /home/alexey2baranov/htdocs/weboplata/lib/Weboplata/Weboplata2.php:264
+Stack trace:
+#0 /home/alexey2baranov/htdocs/weboplata/test/Weboplata/WeboplataTest2.php(109): Weboplata\Weboplata2->pay('789-\xD0\x98', 0.1, '20180123211233', 1516723953)
+#1 [internal function]: Weboplata\WeboplataTest->testPay()
+#2 /home/alexey2baranov/htdocs/weboplata/vendor/phpunit/phpunit/src/Framework/TestCase.php(952): ReflectionMethod->invokeArgs(Object(Weboplata\WeboplataTest), Array)
+#3 /home/alexey2baranov/htdocs/weboplata/vendor/phpunit/phpunit/src/Framework/TestCase.php(818): PHPUnit_Framework_TestCase->runTest()
+#4 /home/alexey2baranov/htdocs/weboplata/vendor/phpunit/phpunit/src/Framework/TestResult.php(686): PHPUnit_Framework_TestCase->runBare()
+#5 /home/alexey2baranov/htdocs/weboplata/vendor/phpunit/phpunit/src/Framework/TestCase.php(754): PHPUnit_Framework_TestResult->run(Object(Weboplata\WeboplataTest))
+#6 /home/alexey2baranov/htdocs/weboplata/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit_Framework_TestCase->run(Object(PHPUnit_Framework_TestResult))
+#7 /home/alexey2baranov/htdocs/weboplata/vendor/phpunit/phpunit/src/TextUI/TestRunner.php(425): PHPUnit_Framework_TestSuite->run(Object(PHPUnit_Framework_TestResult))
+#8 /home/alexey2baranov/htdocs/weboplata/vendor/phpunit/phpunit/src/TextUI/Command.php(179): PHPUnit_TextUI_TestRunner->doRun(Object(PHPUnit_Framework_TestSuite), Array)
+#9 /tmp/ide-phpunit.php(299): PHPUnit_TextUI_Command->run(Array, true)
+#10 /tmp/ide-phpunit.php(605): IDE_Base_PHPUnit_TextUI_Command::main()
+#11 {main} 
+2018-01-23T21:17:36+05:00 root  10714 ERROR exception 'Weboplata\Exception' with message 'Неверный номер счета' in /home/alexey2baranov/htdocs/weboplata/lib/Weboplata/Weboplata2.php:150
+Stack trace:
+#0 /home/alexey2baranov/htdocs/weboplata/test/Weboplata/WeboplataTest2.php(59): Weboplata\Weboplata2->check('789999-\xD0\x98')
+#1 [internal function]: Weboplata\WeboplataTest->testcheckLocal()
+#2 /home/alexey2baranov/htdocs/weboplata/vendor/phpunit/phpunit/src/Framework/TestCase.php(952): ReflectionMethod->invokeArgs(Object(Weboplata\WeboplataTest), Array)
+#3 /home/alexey2baranov/htdocs/weboplata/vendor/phpunit/phpunit/src/Framework/TestCase.php(818): PHPUnit_Framework_TestCase->runTest()
+#4 /home/alexey2baranov/htdocs/weboplata/vendor/phpunit/phpunit/src/Framework/TestResult.php(686): PHPUnit_Framework_TestCase->runBare()
+#5 /home/alexey2baranov/htdocs/weboplata/vendor/phpunit/phpunit/src/Framework/TestCase.php(754): PHPUnit_Framework_TestResult->run(Object(Weboplata\WeboplataTest))
+#6 /home/alexey2baranov/htdocs/weboplata/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit_Framework_TestCase->run(Object(PHPUnit_Framework_TestResult))
+#7 /home/alexey2baranov/htdocs/weboplata/vendor/phpunit/phpunit/src/TextUI/TestRunner.php(425): PHPUnit_Framework_TestSuite->run(Object(PHPUnit_Framework_TestResult))
+#8 /home/alexey2baranov/htdocs/weboplata/vendor/phpunit/phpunit/src/TextUI/Command.php(179): PHPUnit_TextUI_TestRunner->doRun(Object(PHPUnit_Framework_TestSuite), Array)
+#9 /tmp/ide-phpunit.php(299): PHPUnit_TextUI_Command->run(Array, true)
+#10 /tmp/ide-phpunit.php(605): IDE_Base_PHPUnit_TextUI_Command::main()
+#11 {main} 
+2018-01-23T21:17:36+05:00 root  10714 ERROR exception 'Weboplata\Exception' with message 'Неверный номер телефона' in /home/alexey2baranov/htdocs/weboplata/lib/Weboplata/Weboplata2.php:60
+Stack trace:
+#0 /home/alexey2baranov/htdocs/weboplata/lib/Weboplata/Weboplata2.php(102): Weboplata\Weboplata2->getAccountByPhoneNumber('789')
+#1 /home/alexey2baranov/htdocs/weboplata/test/Weboplata/WeboplataTest2.php(62): Weboplata\Weboplata2->check('789')
+#2 [internal function]: Weboplata\WeboplataTest->testcheckLocal()
+#3 /home/alexey2baranov/htdocs/weboplata/vendor/phpunit/phpunit/src/Framework/TestCase.php(952): ReflectionMethod->invokeArgs(Object(Weboplata\WeboplataTest), Array)
+#4 /home/alexey2baranov/htdocs/weboplata/vendor/phpunit/phpunit/src/Framework/TestCase.php(818): PHPUnit_Framework_TestCase->runTest()
+#5 /home/alexey2baranov/htdocs/weboplata/vendor/phpunit/phpunit/src/Framework/TestResult.php(686): PHPUnit_Framework_TestCase->runBare()
+#6 /home/alexey2baranov/htdocs/weboplata/vendor/phpunit/phpunit/src/Framework/TestCase.php(754): PHPUnit_Framework_TestResult->run(Object(Weboplata\WeboplataTest))
+#7 /home/alexey2baranov/htdocs/weboplata/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit_Framework_TestCase->run(Object(PHPUnit_Framework_TestResult))
+#8 /home/alexey2baranov/htdocs/weboplata/vendor/phpunit/phpunit/src/TextUI/TestRunner.php(425): PHPUnit_Framework_TestSuite->run(Object(PHPUnit_Framework_TestResult))
+#9 /home/alexey2baranov/htdocs/weboplata/vendor/phpunit/phpunit/src/TextUI/Command.php(179): PHPUnit_TextUI_TestRunner->doRun(Object(PHPUnit_Framework_TestSuite), Array)
+#10 /tmp/ide-phpunit.php(299): PHPUnit_TextUI_Command->run(Array, true)
+#11 /tmp/ide-phpunit.php(605): IDE_Base_PHPUnit_TextUI_Command::main()
+#12 {main} 
+2018-01-23T21:18:04+05:00 root  10737 ERROR exception 'Weboplata\Exception' with message 'Неверный номер счета' in /home/alexey2baranov/htdocs/weboplata/lib/Weboplata/Weboplata2.php:150
+Stack trace:
+#0 /home/alexey2baranov/htdocs/weboplata/test/Weboplata/WeboplataTest2.php(59): Weboplata\Weboplata2->check('789999-\xD0\x98')
+#1 [internal function]: Weboplata\WeboplataTest->testcheckLocal()
+#2 /home/alexey2baranov/htdocs/weboplata/vendor/phpunit/phpunit/src/Framework/TestCase.php(952): ReflectionMethod->invokeArgs(Object(Weboplata\WeboplataTest), Array)
+#3 /home/alexey2baranov/htdocs/weboplata/vendor/phpunit/phpunit/src/Framework/TestCase.php(818): PHPUnit_Framework_TestCase->runTest()
+#4 /home/alexey2baranov/htdocs/weboplata/vendor/phpunit/phpunit/src/Framework/TestResult.php(686): PHPUnit_Framework_TestCase->runBare()
+#5 /home/alexey2baranov/htdocs/weboplata/vendor/phpunit/phpunit/src/Framework/TestCase.php(754): PHPUnit_Framework_TestResult->run(Object(Weboplata\WeboplataTest))
+#6 /home/alexey2baranov/htdocs/weboplata/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit_Framework_TestCase->run(Object(PHPUnit_Framework_TestResult))
+#7 /home/alexey2baranov/htdocs/weboplata/vendor/phpunit/phpunit/src/TextUI/TestRunner.php(425): PHPUnit_Framework_TestSuite->run(Object(PHPUnit_Framework_TestResult))
+#8 /home/alexey2baranov/htdocs/weboplata/vendor/phpunit/phpunit/src/TextUI/Command.php(179): PHPUnit_TextUI_TestRunner->doRun(Object(PHPUnit_Framework_TestSuite), Array)
+#9 /tmp/ide-phpunit.php(299): PHPUnit_TextUI_Command->run(Array, true)
+#10 /tmp/ide-phpunit.php(605): IDE_Base_PHPUnit_TextUI_Command::main()
+#11 {main} 
+2018-01-23T21:18:04+05:00 root  10737 ERROR exception 'Weboplata\Exception' with message 'Неверный номер телефона' in /home/alexey2baranov/htdocs/weboplata/lib/Weboplata/Weboplata2.php:60
+Stack trace:
+#0 /home/alexey2baranov/htdocs/weboplata/lib/Weboplata/Weboplata2.php(102): Weboplata\Weboplata2->getAccountByPhoneNumber('789')
+#1 /home/alexey2baranov/htdocs/weboplata/test/Weboplata/WeboplataTest2.php(62): Weboplata\Weboplata2->check('789')
+#2 [internal function]: Weboplata\WeboplataTest->testcheckLocal()
+#3 /home/alexey2baranov/htdocs/weboplata/vendor/phpunit/phpunit/src/Framework/TestCase.php(952): ReflectionMethod->invokeArgs(Object(Weboplata\WeboplataTest), Array)
+#4 /home/alexey2baranov/htdocs/weboplata/vendor/phpunit/phpunit/src/Framework/TestCase.php(818): PHPUnit_Framework_TestCase->runTest()
+#5 /home/alexey2baranov/htdocs/weboplata/vendor/phpunit/phpunit/src/Framework/TestResult.php(686): PHPUnit_Framework_TestCase->runBare()
+#6 /home/alexey2baranov/htdocs/weboplata/vendor/phpunit/phpunit/src/Framework/TestCase.php(754): PHPUnit_Framework_TestResult->run(Object(Weboplata\WeboplataTest))
+#7 /home/alexey2baranov/htdocs/weboplata/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit_Framework_TestCase->run(Object(PHPUnit_Framework_TestResult))
+#8 /home/alexey2baranov/htdocs/weboplata/vendor/phpunit/phpunit/src/TextUI/TestRunner.php(425): PHPUnit_Framework_TestSuite->run(Object(PHPUnit_Framework_TestResult))
+#9 /home/alexey2baranov/htdocs/weboplata/vendor/phpunit/phpunit/src/TextUI/Command.php(179): PHPUnit_TextUI_TestRunner->doRun(Object(PHPUnit_Framework_TestSuite), Array)
+#10 /tmp/ide-phpunit.php(299): PHPUnit_TextUI_Command->run(Array, true)
+#11 /tmp/ide-phpunit.php(605): IDE_Base_PHPUnit_TextUI_Command::main()
+#12 {main} 
+2018-01-23T21:18:56+05:00 root  10773 ERROR exception 'Weboplata\Exception' with message 'Неверный номер счета' in /home/alexey2baranov/htdocs/weboplata/lib/Weboplata/Weboplata2.php:150
+Stack trace:
+#0 /home/alexey2baranov/htdocs/weboplata/test/Weboplata/WeboplataTest2.php(59): Weboplata\Weboplata2->check('789999-\xD0\x98')
+#1 [internal function]: Weboplata\WeboplataTest->testcheckLocal()
+#2 /home/alexey2baranov/htdocs/weboplata/vendor/phpunit/phpunit/src/Framework/TestCase.php(952): ReflectionMethod->invokeArgs(Object(Weboplata\WeboplataTest), Array)
+#3 /home/alexey2baranov/htdocs/weboplata/vendor/phpunit/phpunit/src/Framework/TestCase.php(818): PHPUnit_Framework_TestCase->runTest()
+#4 /home/alexey2baranov/htdocs/weboplata/vendor/phpunit/phpunit/src/Framework/TestResult.php(686): PHPUnit_Framework_TestCase->runBare()
+#5 /home/alexey2baranov/htdocs/weboplata/vendor/phpunit/phpunit/src/Framework/TestCase.php(754): PHPUnit_Framework_TestResult->run(Object(Weboplata\WeboplataTest))
+#6 /home/alexey2baranov/htdocs/weboplata/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit_Framework_TestCase->run(Object(PHPUnit_Framework_TestResult))
+#7 /home/alexey2baranov/htdocs/weboplata/vendor/phpunit/phpunit/src/TextUI/TestRunner.php(425): PHPUnit_Framework_TestSuite->run(Object(PHPUnit_Framework_TestResult))
+#8 /home/alexey2baranov/htdocs/weboplata/vendor/phpunit/phpunit/src/TextUI/Command.php(179): PHPUnit_TextUI_TestRunner->doRun(Object(PHPUnit_Framework_TestSuite), Array)
+#9 /tmp/ide-phpunit.php(299): PHPUnit_TextUI_Command->run(Array, true)
+#10 /tmp/ide-phpunit.php(605): IDE_Base_PHPUnit_TextUI_Command::main()
+#11 {main} 
+2018-01-23T21:18:56+05:00 root  10773 ERROR exception 'Weboplata\Exception' with message 'Неверный номер телефона' in /home/alexey2baranov/htdocs/weboplata/lib/Weboplata/Weboplata2.php:60
+Stack trace:
+#0 /home/alexey2baranov/htdocs/weboplata/lib/Weboplata/Weboplata2.php(102): Weboplata\Weboplata2->getAccountByPhoneNumber('789')
+#1 /home/alexey2baranov/htdocs/weboplata/test/Weboplata/WeboplataTest2.php(62): Weboplata\Weboplata2->check('789')
+#2 [internal function]: Weboplata\WeboplataTest->testcheckLocal()
+#3 /home/alexey2baranov/htdocs/weboplata/vendor/phpunit/phpunit/src/Framework/TestCase.php(952): ReflectionMethod->invokeArgs(Object(Weboplata\WeboplataTest), Array)
+#4 /home/alexey2baranov/htdocs/weboplata/vendor/phpunit/phpunit/src/Framework/TestCase.php(818): PHPUnit_Framework_TestCase->runTest()
+#5 /home/alexey2baranov/htdocs/weboplata/vendor/phpunit/phpunit/src/Framework/TestResult.php(686): PHPUnit_Framework_TestCase->runBare()
+#6 /home/alexey2baranov/htdocs/weboplata/vendor/phpunit/phpunit/src/Framework/TestCase.php(754): PHPUnit_Framework_TestResult->run(Object(Weboplata\WeboplataTest))
+#7 /home/alexey2baranov/htdocs/weboplata/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit_Framework_TestCase->run(Object(PHPUnit_Framework_TestResult))
+#8 /home/alexey2baranov/htdocs/weboplata/vendor/phpunit/phpunit/src/TextUI/TestRunner.php(425): PHPUnit_Framework_TestSuite->run(Object(PHPUnit_Framework_TestResult))
+#9 /home/alexey2baranov/htdocs/weboplata/vendor/phpunit/phpunit/src/TextUI/Command.php(179): PHPUnit_TextUI_TestRunner->doRun(Object(PHPUnit_Framework_TestSuite), Array)
+#10 /tmp/ide-phpunit.php(299): PHPUnit_TextUI_Command->run(Array, true)
+#11 /tmp/ide-phpunit.php(605): IDE_Base_PHPUnit_TextUI_Command::main()
+#12 {main} 
+2018-01-23T21:19:44+05:00 root  10792 ERROR exception 'Weboplata\Exception' with message 'Неверный номер счета' in /home/alexey2baranov/htdocs/weboplata/lib/Weboplata/Weboplata2.php:150
+Stack trace:
+#0 /home/alexey2baranov/htdocs/weboplata/test/Weboplata/WeboplataTest2.php(59): Weboplata\Weboplata2->check('789999-\xD0\x98')
+#1 [internal function]: Weboplata\WeboplataTest->testcheckLocal()
+#2 /home/alexey2baranov/htdocs/weboplata/vendor/phpunit/phpunit/src/Framework/TestCase.php(952): ReflectionMethod->invokeArgs(Object(Weboplata\WeboplataTest), Array)
+#3 /home/alexey2baranov/htdocs/weboplata/vendor/phpunit/phpunit/src/Framework/TestCase.php(818): PHPUnit_Framework_TestCase->runTest()
+#4 /home/alexey2baranov/htdocs/weboplata/vendor/phpunit/phpunit/src/Framework/TestResult.php(686): PHPUnit_Framework_TestCase->runBare()
+#5 /home/alexey2baranov/htdocs/weboplata/vendor/phpunit/phpunit/src/Framework/TestCase.php(754): PHPUnit_Framework_TestResult->run(Object(Weboplata\WeboplataTest))
+#6 /home/alexey2baranov/htdocs/weboplata/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit_Framework_TestCase->run(Object(PHPUnit_Framework_TestResult))
+#7 /home/alexey2baranov/htdocs/weboplata/vendor/phpunit/phpunit/src/TextUI/TestRunner.php(425): PHPUnit_Framework_TestSuite->run(Object(PHPUnit_Framework_TestResult))
+#8 /home/alexey2baranov/htdocs/weboplata/vendor/phpunit/phpunit/src/TextUI/Command.php(179): PHPUnit_TextUI_TestRunner->doRun(Object(PHPUnit_Framework_TestSuite), Array)
+#9 /tmp/ide-phpunit.php(299): PHPUnit_TextUI_Command->run(Array, true)
+#10 /tmp/ide-phpunit.php(605): IDE_Base_PHPUnit_TextUI_Command::main()
+#11 {main} 
+2018-01-23T21:19:44+05:00 root  10792 ERROR exception 'Weboplata\Exception' with message 'Неверный номер телефона' in /home/alexey2baranov/htdocs/weboplata/lib/Weboplata/Weboplata2.php:60
+Stack trace:
+#0 /home/alexey2baranov/htdocs/weboplata/lib/Weboplata/Weboplata2.php(102): Weboplata\Weboplata2->getAccountByPhoneNumber('789')
+#1 /home/alexey2baranov/htdocs/weboplata/test/Weboplata/WeboplataTest2.php(62): Weboplata\Weboplata2->check('789')
+#2 [internal function]: Weboplata\WeboplataTest->testcheckLocal()
+#3 /home/alexey2baranov/htdocs/weboplata/vendor/phpunit/phpunit/src/Framework/TestCase.php(952): ReflectionMethod->invokeArgs(Object(Weboplata\WeboplataTest), Array)
+#4 /home/alexey2baranov/htdocs/weboplata/vendor/phpunit/phpunit/src/Framework/TestCase.php(818): PHPUnit_Framework_TestCase->runTest()
+#5 /home/alexey2baranov/htdocs/weboplata/vendor/phpunit/phpunit/src/Framework/TestResult.php(686): PHPUnit_Framework_TestCase->runBare()
+#6 /home/alexey2baranov/htdocs/weboplata/vendor/phpunit/phpunit/src/Framework/TestCase.php(754): PHPUnit_Framework_TestResult->run(Object(Weboplata\WeboplataTest))
+#7 /home/alexey2baranov/htdocs/weboplata/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit_Framework_TestCase->run(Object(PHPUnit_Framework_TestResult))
+#8 /home/alexey2baranov/htdocs/weboplata/vendor/phpunit/phpunit/src/TextUI/TestRunner.php(425): PHPUnit_Framework_TestSuite->run(Object(PHPUnit_Framework_TestResult))
+#9 /home/alexey2baranov/htdocs/weboplata/vendor/phpunit/phpunit/src/TextUI/Command.php(179): PHPUnit_TextUI_TestRunner->doRun(Object(PHPUnit_Framework_TestSuite), Array)
+#10 /tmp/ide-phpunit.php(299): PHPUnit_TextUI_Command->run(Array, true)
+#11 /tmp/ide-phpunit.php(605): IDE_Base_PHPUnit_TextUI_Command::main()
+#12 {main} 
+2018-01-23T21:22:42+05:00 Weboplata2  10892 ERROR exception 'Weboplata\Exception' with message 'Неверный номер счета' in /home/alexey2baranov/htdocs/weboplata/lib/Weboplata/Weboplata2.php:150
+Stack trace:
+#0 /home/alexey2baranov/htdocs/weboplata/test/Weboplata/WeboplataTest2.php(59): Weboplata\Weboplata2->check('789999-\xD0\x98')
+#1 [internal function]: Weboplata\WeboplataTest->testcheckLocal()
+#2 /home/alexey2baranov/htdocs/weboplata/vendor/phpunit/phpunit/src/Framework/TestCase.php(952): ReflectionMethod->invokeArgs(Object(Weboplata\WeboplataTest), Array)
+#3 /home/alexey2baranov/htdocs/weboplata/vendor/phpunit/phpunit/src/Framework/TestCase.php(818): PHPUnit_Framework_TestCase->runTest()
+#4 /home/alexey2baranov/htdocs/weboplata/vendor/phpunit/phpunit/src/Framework/TestResult.php(686): PHPUnit_Framework_TestCase->runBare()
+#5 /home/alexey2baranov/htdocs/weboplata/vendor/phpunit/phpunit/src/Framework/TestCase.php(754): PHPUnit_Framework_TestResult->run(Object(Weboplata\WeboplataTest))
+#6 /home/alexey2baranov/htdocs/weboplata/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit_Framework_TestCase->run(Object(PHPUnit_Framework_TestResult))
+#7 /home/alexey2baranov/htdocs/weboplata/vendor/phpunit/phpunit/src/TextUI/TestRunner.php(425): PHPUnit_Framework_TestSuite->run(Object(PHPUnit_Framework_TestResult))
+#8 /home/alexey2baranov/htdocs/weboplata/vendor/phpunit/phpunit/src/TextUI/Command.php(179): PHPUnit_TextUI_TestRunner->doRun(Object(PHPUnit_Framework_TestSuite), Array)
+#9 /tmp/ide-phpunit.php(299): PHPUnit_TextUI_Command->run(Array, true)
+#10 /tmp/ide-phpunit.php(605): IDE_Base_PHPUnit_TextUI_Command::main()
+#11 {main} 
+2018-01-23T21:22:42+05:00 Weboplata2  10892 ERROR exception 'Weboplata\Exception' with message 'Неверный номер телефона' in /home/alexey2baranov/htdocs/weboplata/lib/Weboplata/Weboplata2.php:60
+Stack trace:
+#0 /home/alexey2baranov/htdocs/weboplata/lib/Weboplata/Weboplata2.php(102): Weboplata\Weboplata2->getAccountByPhoneNumber('789')
+#1 /home/alexey2baranov/htdocs/weboplata/test/Weboplata/WeboplataTest2.php(62): Weboplata\Weboplata2->check('789')
+#2 [internal function]: Weboplata\WeboplataTest->testcheckLocal()
+#3 /home/alexey2baranov/htdocs/weboplata/vendor/phpunit/phpunit/src/Framework/TestCase.php(952): ReflectionMethod->invokeArgs(Object(Weboplata\WeboplataTest), Array)
+#4 /home/alexey2baranov/htdocs/weboplata/vendor/phpunit/phpunit/src/Framework/TestCase.php(818): PHPUnit_Framework_TestCase->runTest()
+#5 /home/alexey2baranov/htdocs/weboplata/vendor/phpunit/phpunit/src/Framework/TestResult.php(686): PHPUnit_Framework_TestCase->runBare()
+#6 /home/alexey2baranov/htdocs/weboplata/vendor/phpunit/phpunit/src/Framework/TestCase.php(754): PHPUnit_Framework_TestResult->run(Object(Weboplata\WeboplataTest))
+#7 /home/alexey2baranov/htdocs/weboplata/vendor/phpunit/phpunit/src/Framework/TestSuite.php(675): PHPUnit_Framework_TestCase->run(Object(PHPUnit_Framework_TestResult))
+#8 /home/alexey2baranov/htdocs/weboplata/vendor/phpunit/phpunit/src/TextUI/TestRunner.php(425): PHPUnit_Framework_TestSuite->run(Object(PHPUnit_Framework_TestResult))
+#9 /home/alexey2baranov/htdocs/weboplata/vendor/phpunit/phpunit/src/TextUI/Command.php(179): PHPUnit_TextUI_TestRunner->doRun(Object(PHPUnit_Framework_TestSuite), Array)
+#10 /tmp/ide-phpunit.php(299): PHPUnit_TextUI_Command->run(Array, true)
+#11 /tmp/ide-phpunit.php(605): IDE_Base_PHPUnit_TextUI_Command::main()
+#12 {main} 
