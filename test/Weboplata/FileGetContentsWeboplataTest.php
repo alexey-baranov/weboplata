@@ -23,7 +23,9 @@ class GydraWeboplataTest extends \PHPUnit_Framework_TestCase
 
   protected function setUp()
   {
-    $this->object = new \Zend_Rest_Client("https://localhost/weboplata/public/1.0.php");
+//    $this->object = new \Zend_Rest_Client("https://localhost/weboplata/public/1.0.file_get_contents.php");
+    $this->object = new \Zend_Rest_Client("https://217.114.191.210/weboplata/public/1.0.php");
+//    $this->object = new \Zend_Rest_Client("https://hydra.tele-plus.ru:9443/weboplata/main");
   }
 
   /**

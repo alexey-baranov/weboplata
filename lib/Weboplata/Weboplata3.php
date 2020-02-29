@@ -90,9 +90,7 @@ class Weboplata3
     }
 
     /*
-        http://217.114.191.114:9443/hydra/main/
-        ?command=check&txn_id=1234567890&txn_date=20180416123744&
-        account=1001&sum=12.34&bank_code=Сбербанк&to_account=Сбербанк'
+        http://217.114.191.114:9443/hydra/main/?command=check&txn_id=1234567890&txn_date=20180416123744&account=1001&sum=12.34&bank_code=Сбербанк&to_account=Сбербанк
     */
     $client = new \Zend_Rest_Client("http://217.114.191.114:9443/hydra/main/");
 
@@ -170,9 +168,7 @@ class Weboplata3
     $ExternalPaymentID = (string)$ExternalPaymentID;
 
     /*
-    http://217.114.191.114:9443/hydra/main/?
-    command=pay&txn_id=1234567890&txn_date=20180416123744&
-    account=1001&sum=12.34&bank_code=Сбербанк&to_account=Сбербанк
+    http://217.114.191.114:9443/hydra/main/?command=pay&txn_id=1234567890&txn_date=20180416123744&account=1001&sum=12.34&bank_code=Сбербанк&to_account=Сбербанк
     */
     $client = new \Zend_Rest_Client("http://217.114.191.114:9443/hydra/main/");
 
